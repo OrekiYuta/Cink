@@ -7,6 +7,7 @@ tiles:
 -
   name: "bing"
   url: "https://bing.com"
+  desc: "一二三四五六七八九十"
   img: "logos/bing.svg"
   txt_color: "#ffffff"
   bg_color: "#ffb900"
@@ -17,7 +18,7 @@ tiles:
   img: "logos/amazon.svg"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
-  tags: ["favorite", "shopping"]
+  tags: ["favorite"]
 -
   name: "reddit"
   url: "https://reddit.com"
@@ -37,7 +38,7 @@ tiles:
   img: "logos/google-music.png"
   bg_color: "#ffffff"
   txt_color: "#ff5722"
-  tags: ["music"]
+  tags: ["book"]
 -
   name: "pandora"
   url: "https://pandora.com"
@@ -58,13 +59,13 @@ tiles:
   img: "logos/wikipedia.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
--
-  name: "ebay"
-  url: "https://ebay.com"
-  img: "logos/ebay.svg"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["shopping"]
+# -
+#   name: "ebay"
+#   url: "https://ebay.com"
+#   img: "logos/ebay.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#000000"
+#   tags: ["shopping"]
 -
   name: "twitter"
   url: "https://twitter.com"
@@ -93,6 +94,18 @@ tiles:
   txt_color: "#e50914"
   tags: ["video"]
 
+-
+  name: "imgur"
+  url: "https://imgur.com"
+  img: "logos/imgur.svg"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+-
+  name: "imgur"
+  url: "https://imgur.com"
+  img: "logos/imgur.svg"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
 -
   name: "imgur"
   url: "https://imgur.com"

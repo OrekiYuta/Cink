@@ -33,3 +33,145 @@ icon = "headphones"
 name = "video"
 tag = "video"
 icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "book"
+tag = "book"
+icon = "video-camera"
