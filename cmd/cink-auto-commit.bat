@@ -17,13 +17,10 @@ REM Push to current branch
 call git push
 
 REM Clean Hexo cache
-hexo clean
+call hexo clean
 
 REM Generate static files
-hexo g
+call hexo g
 
 REM Deploy to the branch specified in _config.yml (default is master)
-hexo d
-
-REM Wait for 3 seconds before closing
-timeout /t 3 /nobreak
+call hexo d
