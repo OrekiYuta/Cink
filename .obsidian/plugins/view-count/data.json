@@ -1,0 +1,13 @@
+{
+  "countMethod": "total-times-opened",
+  "skipNewNotes": false,
+  "syncToFrontmatter": false,
+  "propertyName": "view-count",
+  "pluginVersion": "2.5.0",
+  "logLevel": "off",
+  "excludedPaths": [],
+  "templaterDelay": 0,
+  "currentView": "views",
+  "timePeriod": "30-days",
+  "itemCount": 100
+}

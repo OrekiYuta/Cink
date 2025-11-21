@@ -1,0 +1,193 @@
+{
+  "workspaces": {
+    "cink": {
+      "main": {
+        "id": "fec00ca885cf33d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "08eef801fcbcc128",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac839432ebb2a914",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "922bd89ad1d992fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "1902c42f1d8a53e8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5291576546d72ab5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "5feb4898daaf5550",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "582ae6d68b3e9718",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "f21249a5bdaff60d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5
+      },
+      "right": {
+        "id": "3d7043797688c778",
+        "type": "split",
+        "children": [
+          {
+            "id": "08b4ba05f76be57a",
+            "type": "tabs",
+            "dimension": 56.036217303822944,
+            "children": [
+              {
+                "id": "e001930228024f89",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "IT Text/10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人"
+                }
+              },
+              {
+                "id": "02b204c3b993f807",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "be9fbd7291bf9907",
+            "type": "tabs",
+            "dimension": 43.963782696177056,
+            "children": [
+              {
+                "id": "0ebbc9f493058f67",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "661a32add0af1c86",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "switcher:Open quick switcher": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "5291576546d72ab5",
+      "mtime": "2025-11-21T23:43:18+08:00"
+    }
+  },
+  "active": "cink"
+}

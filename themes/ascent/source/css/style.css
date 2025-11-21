@@ -38,10 +38,10 @@ body {
   border: none;
   box-sizing: border-box;
   display: block;
-  margin: 3rem auto 10rem auto;
+  margin: 1rem auto 1rem auto;
   max-width: 100%;
   padding: 1em;
-  width: 32em;
+  width: 80em;
 }
  
 @media all and (max-width:760px) {#wrapper {margin-top: 3rem;}}
@@ -86,15 +86,16 @@ body {
 
 .article-header {
   margin-bottom: 1.75em;
-  text-align: center;
+  text-align: right;
 }
  
 .article-title {
   font-family: var(--title-stack);
-  font-size: 2em;
+  font-size: 1.2em;
   font-weight: normal;
   letter-spacing: 0.05em;
   margin-bottom: .25em;
+  text-align: left;
 }
 
 .article-entry {
@@ -172,7 +173,7 @@ body {
 }
 
 .archive-article-date {
-  position: absolute;
+  /*position: absolute;*/
   right: calc(100% - 1.5em);
 }
 
@@ -358,7 +359,7 @@ blockquote {
   font-size: 0.9em;
   letter-spacing: 0.1em;
   margin-bottom: 1.1em;
-  text-align: center;
+  text-align: right;
   text-transform: uppercase;
 }
  

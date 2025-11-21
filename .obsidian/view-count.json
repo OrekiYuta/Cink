@@ -1,0 +1,7934 @@
+{
+  "items": [
+    {
+      "path": "0 - Stack/B - Todo.Overview.md",
+      "uniqueDaysOpened": 107,
+      "totalTimesOpened": 819,
+      "openLogs": [
+        {
+          "timestampMillis": 1761013564687
+        },
+        {
+          "timestampMillis": 1761013600780
+        },
+        {
+          "timestampMillis": 1761020299353
+        },
+        {
+          "timestampMillis": 1761028957923
+        },
+        {
+          "timestampMillis": 1761040368595
+        },
+        {
+          "timestampMillis": 1761045051586
+        },
+        {
+          "timestampMillis": 1761053689813
+        },
+        {
+          "timestampMillis": 1761059673284
+        },
+        {
+          "timestampMillis": 1761062250840
+        },
+        {
+          "timestampMillis": 1761105178490
+        },
+        {
+          "timestampMillis": 1761117249610
+        },
+        {
+          "timestampMillis": 1761128044886
+        },
+        {
+          "timestampMillis": 1761144446505
+        },
+        {
+          "timestampMillis": 1761144813424
+        },
+        {
+          "timestampMillis": 1761147428336
+        },
+        {
+          "timestampMillis": 1761147972285
+        },
+        {
+          "timestampMillis": 1761147980673
+        },
+        {
+          "timestampMillis": 1761150022269
+        },
+        {
+          "timestampMillis": 1761150028181
+        },
+        {
+          "timestampMillis": 1761150601623
+        },
+        {
+          "timestampMillis": 1761152151237
+        },
+        {
+          "timestampMillis": 1761157207886
+        },
+        {
+          "timestampMillis": 1761185725074
+        },
+        {
+          "timestampMillis": 1761203416404
+        },
+        {
+          "timestampMillis": 1761205071678
+        },
+        {
+          "timestampMillis": 1761206070170
+        },
+        {
+          "timestampMillis": 1761221134494
+        },
+        {
+          "timestampMillis": 1761221217963
+        },
+        {
+          "timestampMillis": 1761221368160
+        },
+        {
+          "timestampMillis": 1761221860887
+        },
+        {
+          "timestampMillis": 1761221866528
+        },
+        {
+          "timestampMillis": 1761232555189
+        },
+        {
+          "timestampMillis": 1761233076195
+        },
+        {
+          "timestampMillis": 1761241303905
+        },
+        {
+          "timestampMillis": 1761242013067
+        },
+        {
+          "timestampMillis": 1761242018338
+        },
+        {
+          "timestampMillis": 1761242032902
+        },
+        {
+          "timestampMillis": 1761242252648
+        },
+        {
+          "timestampMillis": 1761242923232
+        },
+        {
+          "timestampMillis": 1761271539635
+        },
+        {
+          "timestampMillis": 1761299600730
+        },
+        {
+          "timestampMillis": 1761299613005
+        },
+        {
+          "timestampMillis": 1761299617630
+        },
+        {
+          "timestampMillis": 1761301988403
+        },
+        {
+          "timestampMillis": 1761303176938
+        },
+        {
+          "timestampMillis": 1761364913988
+        },
+        {
+          "timestampMillis": 1761405208435
+        },
+        {
+          "timestampMillis": 1761410307357
+        },
+        {
+          "timestampMillis": 1761468075702
+        },
+        {
+          "timestampMillis": 1761469997167
+        },
+        {
+          "timestampMillis": 1761474678652
+        },
+        {
+          "timestampMillis": 1761476014018
+        },
+        {
+          "timestampMillis": 1761481747032
+        },
+        {
+          "timestampMillis": 1761485845319
+        },
+        {
+          "timestampMillis": 1761486781799
+        },
+        {
+          "timestampMillis": 1761488748787
+        },
+        {
+          "timestampMillis": 1761488797121
+        },
+        {
+          "timestampMillis": 1761496694741
+        },
+        {
+          "timestampMillis": 1761497433581
+        },
+        {
+          "timestampMillis": 1761497803015
+        },
+        {
+          "timestampMillis": 1761498443776
+        },
+        {
+          "timestampMillis": 1761535156459
+        },
+        {
+          "timestampMillis": 1761536431701
+        },
+        {
+          "timestampMillis": 1761539721392
+        },
+        {
+          "timestampMillis": 1761558183065
+        },
+        {
+          "timestampMillis": 1761558462428
+        },
+        {
+          "timestampMillis": 1761559253724
+        },
+        {
+          "timestampMillis": 1761559344756
+        },
+        {
+          "timestampMillis": 1761575464097
+        },
+        {
+          "timestampMillis": 1761575471275
+        },
+        {
+          "timestampMillis": 1761575477959
+        },
+        {
+          "timestampMillis": 1761575478722
+        },
+        {
+          "timestampMillis": 1761575544320
+        },
+        {
+          "timestampMillis": 1761575554242
+        },
+        {
+          "timestampMillis": 1761575560162
+        },
+        {
+          "timestampMillis": 1761576044346
+        },
+        {
+          "timestampMillis": 1761583168992
+        },
+        {
+          "timestampMillis": 1761585206061
+        },
+        {
+          "timestampMillis": 1761586019790
+        },
+        {
+          "timestampMillis": 1761586740436
+        },
+        {
+          "timestampMillis": 1761587336907
+        },
+        {
+          "timestampMillis": 1761587411195
+        },
+        {
+          "timestampMillis": 1761629207599
+        },
+        {
+          "timestampMillis": 1761629855145
+        },
+        {
+          "timestampMillis": 1761636789640
+        },
+        {
+          "timestampMillis": 1761637116980
+        },
+        {
+          "timestampMillis": 1761637837871
+        },
+        {
+          "timestampMillis": 1761637901882
+        },
+        {
+          "timestampMillis": 1761638046690
+        },
+        {
+          "timestampMillis": 1761638048112
+        },
+        {
+          "timestampMillis": 1761640470843
+        },
+        {
+          "timestampMillis": 1761640502822
+        },
+        {
+          "timestampMillis": 1761641865672
+        },
+        {
+          "timestampMillis": 1761643684165
+        },
+        {
+          "timestampMillis": 1761648428253
+        },
+        {
+          "timestampMillis": 1761648465564
+        },
+        {
+          "timestampMillis": 1761671190895
+        },
+        {
+          "timestampMillis": 1761673339413
+        },
+        {
+          "timestampMillis": 1761674441651
+        },
+        {
+          "timestampMillis": 1761684407745
+        },
+        {
+          "timestampMillis": 1761684636722
+        },
+        {
+          "timestampMillis": 1761684719260
+        },
+        {
+          "timestampMillis": 1761684720808
+        },
+        {
+          "timestampMillis": 1761685686493
+        },
+        {
+          "timestampMillis": 1761691956550
+        },
+        {
+          "timestampMillis": 1761691974098
+        },
+        {
+          "timestampMillis": 1761692980276
+        },
+        {
+          "timestampMillis": 1761725491826
+        },
+        {
+          "timestampMillis": 1761725493016
+        },
+        {
+          "timestampMillis": 1761725555365
+        },
+        {
+          "timestampMillis": 1761756337300
+        },
+        {
+          "timestampMillis": 1761757699961
+        },
+        {
+          "timestampMillis": 1761757786215
+        },
+        {
+          "timestampMillis": 1761758271332
+        },
+        {
+          "timestampMillis": 1761758276349
+        },
+        {
+          "timestampMillis": 1761758279801
+        },
+        {
+          "timestampMillis": 1761759990959
+        },
+        {
+          "timestampMillis": 1761760846638
+        },
+        {
+          "timestampMillis": 1761760848033
+        },
+        {
+          "timestampMillis": 1761764373555
+        },
+        {
+          "timestampMillis": 1761764492055
+        },
+        {
+          "timestampMillis": 1761764731066
+        },
+        {
+          "timestampMillis": 1761765086872
+        },
+        {
+          "timestampMillis": 1761765422659
+        },
+        {
+          "timestampMillis": 1761767299606
+        },
+        {
+          "timestampMillis": 1761767802501
+        },
+        {
+          "timestampMillis": 1761767899632
+        },
+        {
+          "timestampMillis": 1761768520716
+        },
+        {
+          "timestampMillis": 1761769095890
+        },
+        {
+          "timestampMillis": 1761799449425
+        },
+        {
+          "timestampMillis": 1761799923125
+        },
+        {
+          "timestampMillis": 1761813366497
+        },
+        {
+          "timestampMillis": 1761875820460
+        },
+        {
+          "timestampMillis": 1761882393554
+        },
+        {
+          "timestampMillis": 1761882402472
+        },
+        {
+          "timestampMillis": 1761882418715
+        },
+        {
+          "timestampMillis": 1761882423537
+        },
+        {
+          "timestampMillis": 1761898110115
+        },
+        {
+          "timestampMillis": 1761901736588
+        },
+        {
+          "timestampMillis": 1761906375139
+        },
+        {
+          "timestampMillis": 1761906420257
+        },
+        {
+          "timestampMillis": 1761910097609
+        },
+        {
+          "timestampMillis": 1761914306401
+        },
+        {
+          "timestampMillis": 1761918853855
+        },
+        {
+          "timestampMillis": 1761919109618
+        },
+        {
+          "timestampMillis": 1761919114742
+        },
+        {
+          "timestampMillis": 1761921302211
+        },
+        {
+          "timestampMillis": 1761926836502
+        },
+        {
+          "timestampMillis": 1761926846130
+        },
+        {
+          "timestampMillis": 1761926866348
+        },
+        {
+          "timestampMillis": 1761926887619
+        },
+        {
+          "timestampMillis": 1761926900823
+        },
+        {
+          "timestampMillis": 1761927251275
+        },
+        {
+          "timestampMillis": 1761935461247
+        },
+        {
+          "timestampMillis": 1761935463173
+        },
+        {
+          "timestampMillis": 1761940256176
+        },
+        {
+          "timestampMillis": 1761941275365
+        },
+        {
+          "timestampMillis": 1761941424463
+        },
+        {
+          "timestampMillis": 1761943027439
+        },
+        {
+          "timestampMillis": 1761943107170
+        },
+        {
+          "timestampMillis": 1761975436585
+        },
+        {
+          "timestampMillis": 1761976389499
+        },
+        {
+          "timestampMillis": 1761976424669
+        },
+        {
+          "timestampMillis": 1761980923283
+        },
+        {
+          "timestampMillis": 1761981150776
+        },
+        {
+          "timestampMillis": 1761981153236
+        },
+        {
+          "timestampMillis": 1761981499250
+        },
+        {
+          "timestampMillis": 1761981501299
+        },
+        {
+          "timestampMillis": 1761990617076
+        },
+        {
+          "timestampMillis": 1761990629883
+        },
+        {
+          "timestampMillis": 1762000167684
+        },
+        {
+          "timestampMillis": 1762016429485
+        },
+        {
+          "timestampMillis": 1762017217757
+        },
+        {
+          "timestampMillis": 1762085013504
+        },
+        {
+          "timestampMillis": 1762085037542
+        },
+        {
+          "timestampMillis": 1762085220983
+        },
+        {
+          "timestampMillis": 1762103020623
+        },
+        {
+          "timestampMillis": 1762112972681
+        },
+        {
+          "timestampMillis": 1762115390116
+        },
+        {
+          "timestampMillis": 1762153533036
+        },
+        {
+          "timestampMillis": 1762171912904
+        },
+        {
+          "timestampMillis": 1762190111140
+        },
+        {
+          "timestampMillis": 1762190502961
+        },
+        {
+          "timestampMillis": 1762190504335
+        },
+        {
+          "timestampMillis": 1762191642899
+        },
+        {
+          "timestampMillis": 1762225957430
+        },
+        {
+          "timestampMillis": 1762225960762
+        },
+        {
+          "timestampMillis": 1762229438774
+        },
+        {
+          "timestampMillis": 1762231599165
+        },
+        {
+          "timestampMillis": 1762241702089
+        },
+        {
+          "timestampMillis": 1762249214165
+        },
+        {
+          "timestampMillis": 1762249226226
+        },
+        {
+          "timestampMillis": 1762249536924
+        },
+        {
+          "timestampMillis": 1762251767769
+        },
+        {
+          "timestampMillis": 1762255781439
+        },
+        {
+          "timestampMillis": 1762255891672
+        },
+        {
+          "timestampMillis": 1762272301238
+        },
+        {
+          "timestampMillis": 1762272867243
+        },
+        {
+          "timestampMillis": 1762272871528
+        },
+        {
+          "timestampMillis": 1762272873691
+        },
+        {
+          "timestampMillis": 1762275650236
+        },
+        {
+          "timestampMillis": 1762279326449
+        },
+        {
+          "timestampMillis": 1762318064369
+        },
+        {
+          "timestampMillis": 1762318066014
+        },
+        {
+          "timestampMillis": 1762356493542
+        },
+        {
+          "timestampMillis": 1762358753629
+        },
+        {
+          "timestampMillis": 1762358776004
+        },
+        {
+          "timestampMillis": 1762363140617
+        },
+        {
+          "timestampMillis": 1762411554659
+        },
+        {
+          "timestampMillis": 1762411644411
+        },
+        {
+          "timestampMillis": 1762412152163
+        },
+        {
+          "timestampMillis": 1762441723695
+        },
+        {
+          "timestampMillis": 1762441725159
+        },
+        {
+          "timestampMillis": 1762442255701
+        },
+        {
+          "timestampMillis": 1762445378744
+        },
+        {
+          "timestampMillis": 1762447166283
+        },
+        {
+          "timestampMillis": 1762482881843
+        },
+        {
+          "timestampMillis": 1762482883136
+        },
+        {
+          "timestampMillis": 1762503106193
+        },
+        {
+          "timestampMillis": 1762522064408
+        },
+        {
+          "timestampMillis": 1762522069560
+        },
+        {
+          "timestampMillis": 1762522331227
+        },
+        {
+          "timestampMillis": 1762524476643
+        },
+        {
+          "timestampMillis": 1762535603405
+        },
+        {
+          "timestampMillis": 1762540149687
+        },
+        {
+          "timestampMillis": 1762540152809
+        },
+        {
+          "timestampMillis": 1762540406532
+        },
+        {
+          "timestampMillis": 1762540412883
+        },
+        {
+          "timestampMillis": 1762542803223
+        },
+        {
+          "timestampMillis": 1762620971577
+        },
+        {
+          "timestampMillis": 1762621219471
+        },
+        {
+          "timestampMillis": 1762621542648
+        },
+        {
+          "timestampMillis": 1762621646628
+        },
+        {
+          "timestampMillis": 1762621681907
+        },
+        {
+          "timestampMillis": 1762626036986
+        },
+        {
+          "timestampMillis": 1762627425365
+        },
+        {
+          "timestampMillis": 1762627497536
+        },
+        {
+          "timestampMillis": 1762676028456
+        },
+        {
+          "timestampMillis": 1762680744930
+        },
+        {
+          "timestampMillis": 1762681617606
+        },
+        {
+          "timestampMillis": 1762750689008
+        },
+        {
+          "timestampMillis": 1762751061036
+        },
+        {
+          "timestampMillis": 1762769792810
+        },
+        {
+          "timestampMillis": 1762769933249
+        },
+        {
+          "timestampMillis": 1762781678678
+        },
+        {
+          "timestampMillis": 1762850363116
+        },
+        {
+          "timestampMillis": 1762850373273
+        },
+        {
+          "timestampMillis": 1762854690024
+        },
+        {
+          "timestampMillis": 1762854691045
+        },
+        {
+          "timestampMillis": 1762854917298
+        },
+        {
+          "timestampMillis": 1762856065823
+        },
+        {
+          "timestampMillis": 1762882406271
+        },
+        {
+          "timestampMillis": 1762882416098
+        },
+        {
+          "timestampMillis": 1762882616188
+        },
+        {
+          "timestampMillis": 1762882887538
+        },
+        {
+          "timestampMillis": 1762882992299
+        },
+        {
+          "timestampMillis": 1762883238211
+        },
+        {
+          "timestampMillis": 1762883269635
+        },
+        {
+          "timestampMillis": 1762883346573
+        },
+        {
+          "timestampMillis": 1762883494310
+        },
+        {
+          "timestampMillis": 1762883770976
+        },
+        {
+          "timestampMillis": 1762883798224
+        },
+        {
+          "timestampMillis": 1762883815081
+        },
+        {
+          "timestampMillis": 1762883835910
+        },
+        {
+          "timestampMillis": 1762883863539
+        },
+        {
+          "timestampMillis": 1762884139355
+        },
+        {
+          "timestampMillis": 1762884508424
+        },
+        {
+          "timestampMillis": 1762884557395
+        },
+        {
+          "timestampMillis": 1762884705867
+        },
+        {
+          "timestampMillis": 1762884774790
+        },
+        {
+          "timestampMillis": 1762884876360
+        },
+        {
+          "timestampMillis": 1762892209325
+        },
+        {
+          "timestampMillis": 1762936020044
+        },
+        {
+          "timestampMillis": 1762937422677
+        },
+        {
+          "timestampMillis": 1762937442452
+        },
+        {
+          "timestampMillis": 1762937583551
+        },
+        {
+          "timestampMillis": 1762937589015
+        },
+        {
+          "timestampMillis": 1762941687707
+        },
+        {
+          "timestampMillis": 1762941694872
+        },
+        {
+          "timestampMillis": 1762967952544
+        },
+        {
+          "timestampMillis": 1762969776341
+        },
+        {
+          "timestampMillis": 1762970469511
+        },
+        {
+          "timestampMillis": 1762971585484
+        },
+        {
+          "timestampMillis": 1762979964687
+        },
+        {
+          "timestampMillis": 1762980190021
+        },
+        {
+          "timestampMillis": 1762993262136
+        },
+        {
+          "timestampMillis": 1763006603696
+        },
+        {
+          "timestampMillis": 1763008719517
+        },
+        {
+          "timestampMillis": 1763009124303
+        },
+        {
+          "timestampMillis": 1763009130056
+        },
+        {
+          "timestampMillis": 1763009855662
+        },
+        {
+          "timestampMillis": 1763026330128
+        },
+        {
+          "timestampMillis": 1763026897614
+        },
+        {
+          "timestampMillis": 1763027719508
+        },
+        {
+          "timestampMillis": 1763028970174
+        },
+        {
+          "timestampMillis": 1763029352413
+        },
+        {
+          "timestampMillis": 1763029480951
+        },
+        {
+          "timestampMillis": 1763030796335
+        },
+        {
+          "timestampMillis": 1763055125660
+        },
+        {
+          "timestampMillis": 1763055146468
+        },
+        {
+          "timestampMillis": 1763055150564
+        },
+        {
+          "timestampMillis": 1763088659526
+        },
+        {
+          "timestampMillis": 1763093181465
+        },
+        {
+          "timestampMillis": 1763093196151
+        },
+        {
+          "timestampMillis": 1763135825828
+        },
+        {
+          "timestampMillis": 1763136400467
+        },
+        {
+          "timestampMillis": 1763136475544
+        },
+        {
+          "timestampMillis": 1763136644872
+        },
+        {
+          "timestampMillis": 1763136655124
+        },
+        {
+          "timestampMillis": 1763136709562
+        },
+        {
+          "timestampMillis": 1763141506706
+        },
+        {
+          "timestampMillis": 1763141614248
+        },
+        {
+          "timestampMillis": 1763143398531
+        },
+        {
+          "timestampMillis": 1763143930776
+        },
+        {
+          "timestampMillis": 1763143946281
+        },
+        {
+          "timestampMillis": 1763144340821
+        },
+        {
+          "timestampMillis": 1763144355028
+        },
+        {
+          "timestampMillis": 1763156765267
+        },
+        {
+          "timestampMillis": 1763161313800
+        },
+        {
+          "timestampMillis": 1763161815003
+        },
+        {
+          "timestampMillis": 1763161910141
+        },
+        {
+          "timestampMillis": 1763180202304
+        },
+        {
+          "timestampMillis": 1763181671709
+        },
+        {
+          "timestampMillis": 1763181888463
+        },
+        {
+          "timestampMillis": 1763181959460
+        },
+        {
+          "timestampMillis": 1763182591168
+        },
+        {
+          "timestampMillis": 1763182802603
+        },
+        {
+          "timestampMillis": 1763185608261
+        },
+        {
+          "timestampMillis": 1763186728557
+        },
+        {
+          "timestampMillis": 1763186898056
+        },
+        {
+          "timestampMillis": 1763186972889
+        },
+        {
+          "timestampMillis": 1763189546247
+        },
+        {
+          "timestampMillis": 1763286373572
+        },
+        {
+          "timestampMillis": 1763288235178
+        },
+        {
+          "timestampMillis": 1763291210328
+        },
+        {
+          "timestampMillis": 1763291212988
+        },
+        {
+          "timestampMillis": 1763291678321
+        },
+        {
+          "timestampMillis": 1763291690602
+        },
+        {
+          "timestampMillis": 1763312902033
+        },
+        {
+          "timestampMillis": 1763313239646
+        },
+        {
+          "timestampMillis": 1763313280174
+        },
+        {
+          "timestampMillis": 1763319942193
+        },
+        {
+          "timestampMillis": 1763320422756
+        },
+        {
+          "timestampMillis": 1763378671578
+        },
+        {
+          "timestampMillis": 1763378740133
+        },
+        {
+          "timestampMillis": 1763378742965
+        },
+        {
+          "timestampMillis": 1763381382429
+        },
+        {
+          "timestampMillis": 1763381833883
+        },
+        {
+          "timestampMillis": 1763381834235
+        },
+        {
+          "timestampMillis": 1763381905366
+        },
+        {
+          "timestampMillis": 1763381907255
+        },
+        {
+          "timestampMillis": 1763381984065
+        },
+        {
+          "timestampMillis": 1763382637073
+        },
+        {
+          "timestampMillis": 1763384696212
+        },
+        {
+          "timestampMillis": 1763385855807
+        },
+        {
+          "timestampMillis": 1763440327631
+        },
+        {
+          "timestampMillis": 1763466014895
+        },
+        {
+          "timestampMillis": 1763466042253
+        },
+        {
+          "timestampMillis": 1763468443871
+        },
+        {
+          "timestampMillis": 1763468480826
+        },
+        {
+          "timestampMillis": 1763469187848
+        },
+        {
+          "timestampMillis": 1763469446170
+        },
+        {
+          "timestampMillis": 1763469458518
+        },
+        {
+          "timestampMillis": 1763477462706
+        },
+        {
+          "timestampMillis": 1763477774097
+        },
+        {
+          "timestampMillis": 1763479403525
+        },
+        {
+          "timestampMillis": 1763481503189
+        },
+        {
+          "timestampMillis": 1763487110468
+        },
+        {
+          "timestampMillis": 1763487118900
+        },
+        {
+          "timestampMillis": 1763489818732
+        },
+        {
+          "timestampMillis": 1763489836498
+        },
+        {
+          "timestampMillis": 1763490419256
+        },
+        {
+          "timestampMillis": 1763490471332
+        },
+        {
+          "timestampMillis": 1763490835786
+        },
+        {
+          "timestampMillis": 1763490890348
+        },
+        {
+          "timestampMillis": 1763491751681
+        },
+        {
+          "timestampMillis": 1763522738578
+        },
+        {
+          "timestampMillis": 1763523810028
+        },
+        {
+          "timestampMillis": 1763524150723
+        },
+        {
+          "timestampMillis": 1763524218025
+        },
+        {
+          "timestampMillis": 1763524338872
+        },
+        {
+          "timestampMillis": 1763524375841
+        },
+        {
+          "timestampMillis": 1763524522219
+        },
+        {
+          "timestampMillis": 1763525014198
+        },
+        {
+          "timestampMillis": 1763526914197
+        },
+        {
+          "timestampMillis": 1763527209909
+        },
+        {
+          "timestampMillis": 1763529013167
+        },
+        {
+          "timestampMillis": 1763536396240
+        },
+        {
+          "timestampMillis": 1763545209080
+        },
+        {
+          "timestampMillis": 1763547276382
+        },
+        {
+          "timestampMillis": 1763548030692
+        },
+        {
+          "timestampMillis": 1763548438902
+        },
+        {
+          "timestampMillis": 1763565482283
+        },
+        {
+          "timestampMillis": 1763572485622
+        },
+        {
+          "timestampMillis": 1763573737607
+        },
+        {
+          "timestampMillis": 1763573748859
+        },
+        {
+          "timestampMillis": 1763574751060
+        },
+        {
+          "timestampMillis": 1763574757302
+        },
+        {
+          "timestampMillis": 1763574759817
+        },
+        {
+          "timestampMillis": 1763574761737
+        },
+        {
+          "timestampMillis": 1763574768145
+        },
+        {
+          "timestampMillis": 1763574960591
+        },
+        {
+          "timestampMillis": 1763576653855
+        },
+        {
+          "timestampMillis": 1763577531559
+        },
+        {
+          "timestampMillis": 1763611578877
+        },
+        {
+          "timestampMillis": 1763611598014
+        },
+        {
+          "timestampMillis": 1763612030153
+        },
+        {
+          "timestampMillis": 1763612041432
+        },
+        {
+          "timestampMillis": 1763612169342
+        },
+        {
+          "timestampMillis": 1763614808047
+        },
+        {
+          "timestampMillis": 1763615063695
+        },
+        {
+          "timestampMillis": 1763615229531
+        },
+        {
+          "timestampMillis": 1763616370223
+        },
+        {
+          "timestampMillis": 1763617585804
+        },
+        {
+          "timestampMillis": 1763627890580
+        },
+        {
+          "timestampMillis": 1763628185300
+        },
+        {
+          "timestampMillis": 1763628222566
+        },
+        {
+          "timestampMillis": 1763630102671
+        },
+        {
+          "timestampMillis": 1763640843997
+        },
+        {
+          "timestampMillis": 1763642335398
+        },
+        {
+          "timestampMillis": 1763642929945
+        },
+        {
+          "timestampMillis": 1763648403745
+        },
+        {
+          "timestampMillis": 1763649639202
+        },
+        {
+          "timestampMillis": 1763651926948
+        },
+        {
+          "timestampMillis": 1763651934637
+        },
+        {
+          "timestampMillis": 1763659973457
+        },
+        {
+          "timestampMillis": 1763659977761
+        },
+        {
+          "timestampMillis": 1763662574239
+        },
+        {
+          "timestampMillis": 1763662578926
+        },
+        {
+          "timestampMillis": 1763662612772
+        },
+        {
+          "timestampMillis": 1763663073255
+        },
+        {
+          "timestampMillis": 1763663732000
+        },
+        {
+          "timestampMillis": 1763664576687
+        },
+        {
+          "timestampMillis": 1763664745743
+        },
+        {
+          "timestampMillis": 1763690250269
+        },
+        {
+          "timestampMillis": 1763693213014
+        },
+        {
+          "timestampMillis": 1763693264266
+        },
+        {
+          "timestampMillis": 1763693494955
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/证书考试/日语 JLPT 等级考试.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 17,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764529706
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-03-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751483417067
+        },
+        {
+          "timestampMillis": 1751483417332
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-04-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1751644390571
+        },
+        {
+          "timestampMillis": 1751644390737
+        },
+        {
+          "timestampMillis": 1751644491513
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/存储单位大小级别.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730683054
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/通过开源项目申请 JetBrains 激活码.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730685045
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/微信公众号 RSS 源.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730685264
+        },
+        {
+          "timestampMillis": 1751730685445
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/虚拟国外号码-验证码，注册.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730686309
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/中国 cn 三级域名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730687046
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/ChatGPT 接入微信.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730688200
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/ChatGPT 使用.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730689075
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/Jira 编号 EM , ALM 含义.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730689916
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/POP3, SMTP, IMAP 和 Exchange 的区别在哪里？.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763285167414
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/Thunderbird 改变默认布局.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1763186745811
+        },
+        {
+          "timestampMillis": 1763186845345
+        },
+        {
+          "timestampMillis": 1763186853031
+        },
+        {
+          "timestampMillis": 1763186863221
+        },
+        {
+          "timestampMillis": 1763186863593
+        },
+        {
+          "timestampMillis": 1763186868933
+        },
+        {
+          "timestampMillis": 1763186875666
+        },
+        {
+          "timestampMillis": 1763186875832
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/VPS 去程回程.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730692365
+        },
+        {
+          "timestampMillis": 1751730698254
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-12-Other/Best ways to test system functionality.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730744554
+        },
+        {
+          "timestampMillis": 1751730744762
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-05-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751730995391
+        },
+        {
+          "timestampMillis": 1751730995585
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/Dual-Identity.md",
+      "uniqueDaysOpened": 33,
+      "totalTimesOpened": 121,
+      "openLogs": [
+        {
+          "timestampMillis": 1760893230901
+        },
+        {
+          "timestampMillis": 1760893231147
+        },
+        {
+          "timestampMillis": 1760928748035
+        },
+        {
+          "timestampMillis": 1760928749469
+        },
+        {
+          "timestampMillis": 1760948077183
+        },
+        {
+          "timestampMillis": 1761037316245
+        },
+        {
+          "timestampMillis": 1761037316638
+        },
+        {
+          "timestampMillis": 1761150000149
+        },
+        {
+          "timestampMillis": 1761150000345
+        },
+        {
+          "timestampMillis": 1761221223209
+        },
+        {
+          "timestampMillis": 1761221225957
+        },
+        {
+          "timestampMillis": 1761232271281
+        },
+        {
+          "timestampMillis": 1761232271540
+        },
+        {
+          "timestampMillis": 1761496856892
+        },
+        {
+          "timestampMillis": 1761497813767
+        },
+        {
+          "timestampMillis": 1761497814005
+        },
+        {
+          "timestampMillis": 1761539550910
+        },
+        {
+          "timestampMillis": 1761539551272
+        },
+        {
+          "timestampMillis": 1761760146266
+        },
+        {
+          "timestampMillis": 1761760146557
+        },
+        {
+          "timestampMillis": 1761799014089
+        },
+        {
+          "timestampMillis": 1761799014391
+        },
+        {
+          "timestampMillis": 1761904350914
+        },
+        {
+          "timestampMillis": 1761904351027
+        },
+        {
+          "timestampMillis": 1761904356228
+        },
+        {
+          "timestampMillis": 1761905717837
+        },
+        {
+          "timestampMillis": 1762681087742
+        },
+        {
+          "timestampMillis": 1762855913607
+        },
+        {
+          "timestampMillis": 1762935145738
+        },
+        {
+          "timestampMillis": 1762935149598
+        },
+        {
+          "timestampMillis": 1762992366503
+        },
+        {
+          "timestampMillis": 1762992366954
+        },
+        {
+          "timestampMillis": 1763185602380
+        },
+        {
+          "timestampMillis": 1763185602511
+        },
+        {
+          "timestampMillis": 1763283911256
+        },
+        {
+          "timestampMillis": 1763283911543
+        },
+        {
+          "timestampMillis": 1763283912943
+        },
+        {
+          "timestampMillis": 1763285326420
+        },
+        {
+          "timestampMillis": 1763286383304
+        },
+        {
+          "timestampMillis": 1763286383704
+        },
+        {
+          "timestampMillis": 1763375885030
+        },
+        {
+          "timestampMillis": 1763375885219
+        },
+        {
+          "timestampMillis": 1763382119118
+        },
+        {
+          "timestampMillis": 1763382119722
+        },
+        {
+          "timestampMillis": 1763468451580
+        },
+        {
+          "timestampMillis": 1763565952489
+        },
+        {
+          "timestampMillis": 1763573429685
+        },
+        {
+          "timestampMillis": 1763608031781
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/手机费用管理.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751767342479
+        },
+        {
+          "timestampMillis": 1751988468654
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.3 Prewrite/Draft - MetricOps (Phase2).md",
+      "uniqueDaysOpened": 48,
+      "totalTimesOpened": 92,
+      "openLogs": [
+        {
+          "timestampMillis": 1761302015096
+        },
+        {
+          "timestampMillis": 1761302019895
+        },
+        {
+          "timestampMillis": 1761302020635
+        },
+        {
+          "timestampMillis": 1761364909561
+        },
+        {
+          "timestampMillis": 1761470341429
+        },
+        {
+          "timestampMillis": 1761584408590
+        },
+        {
+          "timestampMillis": 1761629208779
+        },
+        {
+          "timestampMillis": 1761684715748
+        },
+        {
+          "timestampMillis": 1761758276836
+        },
+        {
+          "timestampMillis": 1761813870198
+        },
+        {
+          "timestampMillis": 1761910095340
+        },
+        {
+          "timestampMillis": 1761926759999
+        },
+        {
+          "timestampMillis": 1762085014798
+        },
+        {
+          "timestampMillis": 1762171903521
+        },
+        {
+          "timestampMillis": 1762190116194
+        },
+        {
+          "timestampMillis": 1762249215580
+        },
+        {
+          "timestampMillis": 1762272863041
+        },
+        {
+          "timestampMillis": 1762272867706
+        },
+        {
+          "timestampMillis": 1762272871940
+        },
+        {
+          "timestampMillis": 1762279313725
+        },
+        {
+          "timestampMillis": 1762279318796
+        },
+        {
+          "timestampMillis": 1762330644760
+        },
+        {
+          "timestampMillis": 1762330650258
+        },
+        {
+          "timestampMillis": 1762334101220
+        },
+        {
+          "timestampMillis": 1762335013483
+        },
+        {
+          "timestampMillis": 1762335014122
+        },
+        {
+          "timestampMillis": 1762412142750
+        },
+        {
+          "timestampMillis": 1762476355228
+        },
+        {
+          "timestampMillis": 1762883342436
+        },
+        {
+          "timestampMillis": 1762883342722
+        },
+        {
+          "timestampMillis": 1762930523685
+        },
+        {
+          "timestampMillis": 1762930872607
+        },
+        {
+          "timestampMillis": 1763055134790
+        },
+        {
+          "timestampMillis": 1763055139346
+        },
+        {
+          "timestampMillis": 1763143938347
+        },
+        {
+          "timestampMillis": 1763143942164
+        },
+        {
+          "timestampMillis": 1763384691356
+        },
+        {
+          "timestampMillis": 1763384695635
+        },
+        {
+          "timestampMillis": 1763437616046
+        },
+        {
+          "timestampMillis": 1763442864381
+        },
+        {
+          "timestampMillis": 1763548028114
+        },
+        {
+          "timestampMillis": 1763574760551
+        },
+        {
+          "timestampMillis": 1763639828757
+        },
+        {
+          "timestampMillis": 1763690247471
+        },
+        {
+          "timestampMillis": 1763692801125
+        },
+        {
+          "timestampMillis": 1763692802103
+        },
+        {
+          "timestampMillis": 1763693212483
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Account & System.md",
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 36,
+      "openLogs": [
+        {
+          "timestampMillis": 1761185569134
+        },
+        {
+          "timestampMillis": 1761497810822
+        },
+        {
+          "timestampMillis": 1761763940888
+        },
+        {
+          "timestampMillis": 1761764463688
+        },
+        {
+          "timestampMillis": 1761764478429
+        },
+        {
+          "timestampMillis": 1761764479291
+        },
+        {
+          "timestampMillis": 1761764503050
+        },
+        {
+          "timestampMillis": 1761764507069
+        },
+        {
+          "timestampMillis": 1761764854504
+        },
+        {
+          "timestampMillis": 1761767231751
+        },
+        {
+          "timestampMillis": 1761767232021
+        },
+        {
+          "timestampMillis": 1761767518242
+        },
+        {
+          "timestampMillis": 1761767527686
+        },
+        {
+          "timestampMillis": 1761813875088
+        },
+        {
+          "timestampMillis": 1761813875331
+        },
+        {
+          "timestampMillis": 1762152556739
+        },
+        {
+          "timestampMillis": 1762483634800
+        },
+        {
+          "timestampMillis": 1762483637676
+        },
+        {
+          "timestampMillis": 1762483641649
+        },
+        {
+          "timestampMillis": 1762741389320
+        },
+        {
+          "timestampMillis": 1762741432425
+        },
+        {
+          "timestampMillis": 1762741451074
+        },
+        {
+          "timestampMillis": 1762741451742
+        },
+        {
+          "timestampMillis": 1762741452390
+        },
+        {
+          "timestampMillis": 1762741453193
+        },
+        {
+          "timestampMillis": 1762745589242
+        },
+        {
+          "timestampMillis": 1763375882815
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-06-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1751815641072
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-07-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1751903237508
+        },
+        {
+          "timestampMillis": 1751903237685
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-08-Tuesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1751990183079
+        },
+        {
+          "timestampMillis": 1751990183239
+        },
+        {
+          "timestampMillis": 1752168702581
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-11-Thursday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177719333
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-13-Saturday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177689979
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/Chrome 浏览器导出插件.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1757133237854
+        },
+        {
+          "timestampMillis": 1757133271665
+        },
+        {
+          "timestampMillis": 1757171418140
+        },
+        {
+          "timestampMillis": 1757172103934
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-13-Sunday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177689148
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-15-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1752509276637
+        },
+        {
+          "timestampMillis": 1752509276789
+        },
+        {
+          "timestampMillis": 1752509294513
+        },
+        {
+          "timestampMillis": 1752509295211
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/PyCharm 设置不走本地 v2rayN 代理.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1762114731992
+        },
+        {
+          "timestampMillis": 1762539984194
+        },
+        {
+          "timestampMillis": 1762540013331
+        },
+        {
+          "timestampMillis": 1762540144224
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-15-Tuesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177687855
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-16-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1752680479093
+        },
+        {
+          "timestampMillis": 1752680479282
+        },
+        {
+          "timestampMillis": 1752680650749
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-18-Friday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769777632
+        },
+        {
+          "timestampMillis": 1762769777851
+        },
+        {
+          "timestampMillis": 1762769782776
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/我的医保，公积金，养老保险累计转移.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1752858540168
+        },
+        {
+          "timestampMillis": 1752858540507
+        },
+        {
+          "timestampMillis": 1752858546428
+        },
+        {
+          "timestampMillis": 1752858595889
+        },
+        {
+          "timestampMillis": 1752858645492
+        },
+        {
+          "timestampMillis": 1752858684161
+        },
+        {
+          "timestampMillis": 1752859091731
+        },
+        {
+          "timestampMillis": 1752859098479
+        },
+        {
+          "timestampMillis": 1752859251085
+        },
+        {
+          "timestampMillis": 1752859295322
+        },
+        {
+          "timestampMillis": 1752859297039
+        },
+        {
+          "timestampMillis": 1752859298070
+        },
+        {
+          "timestampMillis": 1752859690243
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-29-17-27-19-Tuesday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873241298
+        },
+        {
+          "timestampMillis": 1762016436541
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-03-17-11-58-Saturday.md",
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873280093
+        },
+        {
+          "timestampMillis": 1761648459913
+        },
+        {
+          "timestampMillis": 1762016439238
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/记录-生活随感/初次见面和日常聊天.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1752859693510
+        },
+        {
+          "timestampMillis": 1752859693716
+        },
+        {
+          "timestampMillis": 1752859707115
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2023-09-15-星期五.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1752950669604
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-20-Sunday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177686489
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-24-Thursday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177685759
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/CheckPoint/2024 1H Project Assessment Self-assessment.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1753504116015
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/CheckPoint/2024 2H Project Assessment Self-assessment.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1753504118888
+        },
+        {
+          "timestampMillis": 1753504165915
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/CheckPoint/2025 1H Project Assessment Self-assessment.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1753504145373
+        },
+        {
+          "timestampMillis": 1753504145563
+        },
+        {
+          "timestampMillis": 1753504177618
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/ELK 查看 object config_2025-07-26-21-52-40-Saturday.md",
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144177872
+        },
+        {
+          "timestampMillis": 1763523128205
+        },
+        {
+          "timestampMillis": 1763524182440
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-27-Saturday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177685101
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/Windows 查看异常关机原因.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1761755518420
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-27-Sunday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177683083
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/妈妈公用医疗金记录.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761897711458
+        },
+        {
+          "timestampMillis": 1762522016293
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-07-29-Monday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177681705
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Dev Conf.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764443488
+        },
+        {
+          "timestampMillis": 1761764443671
+        },
+        {
+          "timestampMillis": 1762483632160
+        },
+        {
+          "timestampMillis": 1762883010943
+        },
+        {
+          "timestampMillis": 1762883011205
+        },
+        {
+          "timestampMillis": 1763351050459
+        },
+        {
+          "timestampMillis": 1763351050736
+        },
+        {
+          "timestampMillis": 1763375882084
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-01-Friday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177681279
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-02-Saturday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177679166
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-28-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1754201243281
+        },
+        {
+          "timestampMillis": 1754201247169
+        },
+        {
+          "timestampMillis": 1754201251649
+        },
+        {
+          "timestampMillis": 1754201268282
+        },
+        {
+          "timestampMillis": 1754201297050
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-24-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1754201246236
+        },
+        {
+          "timestampMillis": 1754201248218
+        },
+        {
+          "timestampMillis": 1754201249772
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-17-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1754201249003
+        },
+        {
+          "timestampMillis": 1754201250156
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-16-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1754201250704
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-05-Tuesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177673889
+        },
+        {
+          "timestampMillis": 1757177675848
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-07-Thursday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1754580962882
+        },
+        {
+          "timestampMillis": 1754580963104
+        },
+        {
+          "timestampMillis": 1754581199091
+        },
+        {
+          "timestampMillis": 1754581199230
+        },
+        {
+          "timestampMillis": 1757177674414
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-08-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1754667902260
+        },
+        {
+          "timestampMillis": 1754667902431
+        },
+        {
+          "timestampMillis": 1754668239169
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/本地环境变量设置工具_2025-08-10-00-11-02-Sunday.md",
+      "uniqueDaysOpened": 12,
+      "totalTimesOpened": 30,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930630391
+        },
+        {
+          "timestampMillis": 1761062250088
+        },
+        {
+          "timestampMillis": 1761467992557
+        },
+        {
+          "timestampMillis": 1761559290678
+        },
+        {
+          "timestampMillis": 1761559292359
+        },
+        {
+          "timestampMillis": 1762969918355
+        },
+        {
+          "timestampMillis": 1763144221044
+        },
+        {
+          "timestampMillis": 1763144228047
+        },
+        {
+          "timestampMillis": 1763574702638
+        },
+        {
+          "timestampMillis": 1763574755065
+        },
+        {
+          "timestampMillis": 1763574774358
+        },
+        {
+          "timestampMillis": 1763574837461
+        },
+        {
+          "timestampMillis": 1763574838292
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-10-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1754838641672
+        },
+        {
+          "timestampMillis": 1754838641920
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-01-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1754918378235
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/free cost architecture_2025-03-22-21-34-57-Saturday.md",
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930632543
+        },
+        {
+          "timestampMillis": 1761559318269
+        },
+        {
+          "timestampMillis": 1761559319561
+        },
+        {
+          "timestampMillis": 1762993715770
+        },
+        {
+          "timestampMillis": 1763144179277
+        },
+        {
+          "timestampMillis": 1763523131573
+        },
+        {
+          "timestampMillis": 1763524182856
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/knowledge Store_2024-12-12-20-38-53-Thursday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144184278
+        },
+        {
+          "timestampMillis": 1763523133353
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/License Repo_2024-09-23-00-29-50-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144185263
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/Postman API mock server_2025-07-28-14-39-42-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926859090
+        },
+        {
+          "timestampMillis": 1763523841055
+        },
+        {
+          "timestampMillis": 1763523847202
+        },
+        {
+          "timestampMillis": 1763523848006
+        },
+        {
+          "timestampMillis": 1763523851410
+        },
+        {
+          "timestampMillis": 1763523852296
+        },
+        {
+          "timestampMillis": 1763524047833
+        },
+        {
+          "timestampMillis": 1763524050568
+        },
+        {
+          "timestampMillis": 1763524294725
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/中文输入，英文输出_2024-12-30-01-32-33-Monday.md",
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1762969915088
+        },
+        {
+          "timestampMillis": 1762969920385
+        },
+        {
+          "timestampMillis": 1762970671501
+        },
+        {
+          "timestampMillis": 1763523443412
+        },
+        {
+          "timestampMillis": 1763664360486
+        },
+        {
+          "timestampMillis": 1763664398913
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/历年动漫个人推荐_2025-04-12-21-11-30-Saturday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522951577
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/多模型回复_2025-02-24-00-37-57-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522898899
+        },
+        {
+          "timestampMillis": 1763574698020
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-13-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1755097168392
+        },
+        {
+          "timestampMillis": 1755097168596
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.3 Prewrite/CPA DevOps Interview Feedback.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755239900007
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.3 Prewrite/CPA DevOps Interview Criteria.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755239903511
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.5 Diagram/PII Detection for Application Log/PII Detection for Application Log.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762883520492
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.3 Prewrite/Draft - PII Detection for Application Log.md",
+      "uniqueDaysOpened": 50,
+      "totalTimesOpened": 155,
+      "openLogs": [
+        {
+          "timestampMillis": 1761010560790
+        },
+        {
+          "timestampMillis": 1761010562122
+        },
+        {
+          "timestampMillis": 1761067663692
+        },
+        {
+          "timestampMillis": 1761067664728
+        },
+        {
+          "timestampMillis": 1761117250854
+        },
+        {
+          "timestampMillis": 1761122933055
+        },
+        {
+          "timestampMillis": 1761147256955
+        },
+        {
+          "timestampMillis": 1761147978378
+        },
+        {
+          "timestampMillis": 1761202698095
+        },
+        {
+          "timestampMillis": 1761202701619
+        },
+        {
+          "timestampMillis": 1761221863165
+        },
+        {
+          "timestampMillis": 1761302016299
+        },
+        {
+          "timestampMillis": 1761364911996
+        },
+        {
+          "timestampMillis": 1761470339875
+        },
+        {
+          "timestampMillis": 1761530199959
+        },
+        {
+          "timestampMillis": 1761584406993
+        },
+        {
+          "timestampMillis": 1761587237332
+        },
+        {
+          "timestampMillis": 1761587337473
+        },
+        {
+          "timestampMillis": 1761629210578
+        },
+        {
+          "timestampMillis": 1761638030947
+        },
+        {
+          "timestampMillis": 1761640209486
+        },
+        {
+          "timestampMillis": 1761640212274
+        },
+        {
+          "timestampMillis": 1761643649364
+        },
+        {
+          "timestampMillis": 1761757800021
+        },
+        {
+          "timestampMillis": 1761758277664
+        },
+        {
+          "timestampMillis": 1761767512055
+        },
+        {
+          "timestampMillis": 1761768988965
+        },
+        {
+          "timestampMillis": 1761813869060
+        },
+        {
+          "timestampMillis": 1761910094536
+        },
+        {
+          "timestampMillis": 1761926760663
+        },
+        {
+          "timestampMillis": 1762115924089
+        },
+        {
+          "timestampMillis": 1762115925181
+        },
+        {
+          "timestampMillis": 1762153684106
+        },
+        {
+          "timestampMillis": 1762153871553
+        },
+        {
+          "timestampMillis": 1762241703289
+        },
+        {
+          "timestampMillis": 1762241706215
+        },
+        {
+          "timestampMillis": 1762249218500
+        },
+        {
+          "timestampMillis": 1762249224543
+        },
+        {
+          "timestampMillis": 1762272868154
+        },
+        {
+          "timestampMillis": 1762272872468
+        },
+        {
+          "timestampMillis": 1762279317757
+        },
+        {
+          "timestampMillis": 1762279324123
+        },
+        {
+          "timestampMillis": 1762311908810
+        },
+        {
+          "timestampMillis": 1762330657031
+        },
+        {
+          "timestampMillis": 1762334102282
+        },
+        {
+          "timestampMillis": 1762334102874
+        },
+        {
+          "timestampMillis": 1762335320664
+        },
+        {
+          "timestampMillis": 1762335322834
+        },
+        {
+          "timestampMillis": 1762411693735
+        },
+        {
+          "timestampMillis": 1762411866488
+        },
+        {
+          "timestampMillis": 1762412155334
+        },
+        {
+          "timestampMillis": 1762412160759
+        },
+        {
+          "timestampMillis": 1762476356414
+        },
+        {
+          "timestampMillis": 1762539787532
+        },
+        {
+          "timestampMillis": 1762539788449
+        },
+        {
+          "timestampMillis": 1762883165038
+        },
+        {
+          "timestampMillis": 1762883215187
+        },
+        {
+          "timestampMillis": 1762883225987
+        },
+        {
+          "timestampMillis": 1762883455093
+        },
+        {
+          "timestampMillis": 1762883491444
+        },
+        {
+          "timestampMillis": 1762883779120
+        },
+        {
+          "timestampMillis": 1762884434763
+        },
+        {
+          "timestampMillis": 1762884444598
+        },
+        {
+          "timestampMillis": 1762884452408
+        },
+        {
+          "timestampMillis": 1762884464087
+        },
+        {
+          "timestampMillis": 1762916901571
+        },
+        {
+          "timestampMillis": 1762916902914
+        },
+        {
+          "timestampMillis": 1763026138952
+        },
+        {
+          "timestampMillis": 1763026145023
+        },
+        {
+          "timestampMillis": 1763055141308
+        },
+        {
+          "timestampMillis": 1763055148013
+        },
+        {
+          "timestampMillis": 1763055149561
+        },
+        {
+          "timestampMillis": 1763143941094
+        },
+        {
+          "timestampMillis": 1763156649270
+        },
+        {
+          "timestampMillis": 1763181958817
+        },
+        {
+          "timestampMillis": 1763288687986
+        },
+        {
+          "timestampMillis": 1763288692511
+        },
+        {
+          "timestampMillis": 1763291684325
+        },
+        {
+          "timestampMillis": 1763381657164
+        },
+        {
+          "timestampMillis": 1763381659458
+        },
+        {
+          "timestampMillis": 1763381742015
+        },
+        {
+          "timestampMillis": 1763384691795
+        },
+        {
+          "timestampMillis": 1763437619059
+        },
+        {
+          "timestampMillis": 1763437619932
+        },
+        {
+          "timestampMillis": 1763442866658
+        },
+        {
+          "timestampMillis": 1763466827751
+        },
+        {
+          "timestampMillis": 1763466828618
+        },
+        {
+          "timestampMillis": 1763524519350
+        },
+        {
+          "timestampMillis": 1763524520858
+        },
+        {
+          "timestampMillis": 1763548029180
+        },
+        {
+          "timestampMillis": 1763574761229
+        },
+        {
+          "timestampMillis": 1763691406873
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.5 Diagram/MetricOps/MetricOps.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762883516751
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Dev Abbr.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762442229227
+        },
+        {
+          "timestampMillis": 1762442229434
+        },
+        {
+          "timestampMillis": 1762483632562
+        },
+        {
+          "timestampMillis": 1763375881712
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-16-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1755350379240
+        },
+        {
+          "timestampMillis": 1755350379419
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/CheckPoint/2024 Q1 Promotion Justification.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755602180253
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/调薪和升 Band.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764674642
+        },
+        {
+          "timestampMillis": 1761764690617
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-19-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1755618814407
+        },
+        {
+          "timestampMillis": 1755618814637
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/PyCharm 设置文件读取 .env.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 15,
+      "openLogs": [
+        {
+          "timestampMillis": 1761019443644
+        },
+        {
+          "timestampMillis": 1762539977649
+        },
+        {
+          "timestampMillis": 1762540004163
+        },
+        {
+          "timestampMillis": 1762540024950
+        },
+        {
+          "timestampMillis": 1762540145714
+        },
+        {
+          "timestampMillis": 1763574831509
+        },
+        {
+          "timestampMillis": 1763574831682
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/503 Push Pull Github 代理调整.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776434377
+        },
+        {
+          "timestampMillis": 1755776439477
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-05-Blockchain/xmrig-连接配置代理相关.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776443395
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/IDEA/attachments/1670611897731.jpg",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776569929
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/IDEA/attachments/Snipaste_2023-05-09_00-51-19.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776573086
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/IDEA/attachments/Snipaste_2023-05-09_00-50-24.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776574277
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/IDEA/attachments/Snipaste_2023-05-08_19-56-36.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776576553
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/PyCharm 配置子目录项目的 venv 虚拟环境目录.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776635733
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/PyCharm Debug 循环到指定条件.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755776639406
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-08-23-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1755939580103
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Chrome 收藏夹 to Cink_2023-04-29-04-45-52-星期六.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1762969927462
+        },
+        {
+          "timestampMillis": 1762969941133
+        },
+        {
+          "timestampMillis": 1763144161257
+        },
+        {
+          "timestampMillis": 1763523107869
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/浏览器书签检测_2025-08-23-22-29-44-Saturday.md",
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 17,
+      "openLogs": [
+        {
+          "timestampMillis": 1761467992855
+        },
+        {
+          "timestampMillis": 1761559291522
+        },
+        {
+          "timestampMillis": 1761559298786
+        },
+        {
+          "timestampMillis": 1761559329420
+        },
+        {
+          "timestampMillis": 1761675638613
+        },
+        {
+          "timestampMillis": 1762969913887
+        },
+        {
+          "timestampMillis": 1762969918918
+        },
+        {
+          "timestampMillis": 1763574687147
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-08-24-21-07-11-Sunday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873283914
+        },
+        {
+          "timestampMillis": 1761648456483
+        },
+        {
+          "timestampMillis": 1762016443442
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-26-03-03-32-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873243238
+        },
+        {
+          "timestampMillis": 1760873283220
+        },
+        {
+          "timestampMillis": 1761648459097
+        },
+        {
+          "timestampMillis": 1762016442357
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-22-15-43-38-Thursday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873282437
+        },
+        {
+          "timestampMillis": 1761648458333
+        },
+        {
+          "timestampMillis": 1762016441314
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-10-23-10-23-Saturday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873281695
+        },
+        {
+          "timestampMillis": 1761648459482
+        },
+        {
+          "timestampMillis": 1762016440452
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-24-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1756045338393
+        },
+        {
+          "timestampMillis": 1756045338607
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-08-25-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1756135907895
+        },
+        {
+          "timestampMillis": 1756135911245
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-08-26-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1756192060769
+        },
+        {
+          "timestampMillis": 1756192061078
+        },
+        {
+          "timestampMillis": 1756212077078
+        },
+        {
+          "timestampMillis": 1756212077179
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-08-26-15-08-05-Tuesday.md",
+      "uniqueDaysOpened": 20,
+      "totalTimesOpened": 75,
+      "openLogs": [
+        {
+          "timestampMillis": 1759496387310
+        },
+        {
+          "timestampMillis": 1759496390654
+        },
+        {
+          "timestampMillis": 1759570287984
+        },
+        {
+          "timestampMillis": 1760853498083
+        },
+        {
+          "timestampMillis": 1760853506195
+        },
+        {
+          "timestampMillis": 1760873243919
+        },
+        {
+          "timestampMillis": 1760873287919
+        },
+        {
+          "timestampMillis": 1761648455053
+        },
+        {
+          "timestampMillis": 1761648456239
+        },
+        {
+          "timestampMillis": 1762016447549
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-08-30-Saturday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1756551440137
+        },
+        {
+          "timestampMillis": 1756551440365
+        },
+        {
+          "timestampMillis": 1756552837758
+        },
+        {
+          "timestampMillis": 1756634511683
+        },
+        {
+          "timestampMillis": 1756634539856
+        },
+        {
+          "timestampMillis": 1757173671844
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-08-30-19-22-56-Saturday.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873244588
+        },
+        {
+          "timestampMillis": 1760873246429
+        },
+        {
+          "timestampMillis": 1760873288673
+        },
+        {
+          "timestampMillis": 1761648454493
+        },
+        {
+          "timestampMillis": 1762016454548
+        },
+        {
+          "timestampMillis": 1762016454708
+        },
+        {
+          "timestampMillis": 1763027685135
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/妈妈康复相关.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1761410235259
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-07-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1756559476366
+        },
+        {
+          "timestampMillis": 1756559476555
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/差旅报销操作.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1756634383243
+        },
+        {
+          "timestampMillis": 1756634386075
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-08-31-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1756634428788
+        },
+        {
+          "timestampMillis": 1756634429074
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-05-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757006028672
+        },
+        {
+          "timestampMillis": 1757006028827
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-05-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1757057463161
+        },
+        {
+          "timestampMillis": 1757057796341
+        },
+        {
+          "timestampMillis": 1757057796633
+        },
+        {
+          "timestampMillis": 1757083985137
+        },
+        {
+          "timestampMillis": 1757352841266
+        },
+        {
+          "timestampMillis": 1757352841385
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2023-09-05-23-39-52-星期二.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757067350022
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2025-07-10-Thursday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1757067530163
+        },
+        {
+          "timestampMillis": 1757242972934
+        },
+        {
+          "timestampMillis": 1757242973218
+        },
+        {
+          "timestampMillis": 1757288859437
+        },
+        {
+          "timestampMillis": 1757288859658
+        },
+        {
+          "timestampMillis": 1757288869079
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-09-06-03-18-00-Saturday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873245438
+        },
+        {
+          "timestampMillis": 1760873248448
+        },
+        {
+          "timestampMillis": 1760873289733
+        },
+        {
+          "timestampMillis": 1761648455721
+        },
+        {
+          "timestampMillis": 1762016459900
+        },
+        {
+          "timestampMillis": 1762016462453
+        },
+        {
+          "timestampMillis": 1763027687865
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/鼠标点右键立刻保存 twitter 图片_2023-05-01-23-18-16-星期一.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757134883847
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-1-BMCC-KM-Portal=2020.10.20~2022.07.08/谷歌浏览器无视证书安全认证.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171264491
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/chrome 开启多线程下载.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171270163
+        },
+        {
+          "timestampMillis": 1757171407040
+        },
+        {
+          "timestampMillis": 1757171414824
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/谷歌浏览器打开网站提示-您要访问的是诈骗网站.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171403996
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Firefox/浏览器同一个网站登录多个账号.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171406116
+        },
+        {
+          "timestampMillis": 1757171408518
+        },
+        {
+          "timestampMillis": 1757171447199
+        },
+        {
+          "timestampMillis": 1757171515869
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/Chrome 设置视频画中画.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171435903
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/Chrome 远程控制.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171436891
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/Google Translate bookmarklet.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171437803
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Chrome/Udemy 无法屏幕截图.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757171440797
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-30-00-04-39-Wednesday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873278955
+        },
+        {
+          "timestampMillis": 1761648460396
+        },
+        {
+          "timestampMillis": 1762016438349
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-07-28-11-46-47-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172124114
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-06-05-09-27-33-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172125519
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-24-16-33-37-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172128252
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-23-11-56-26-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172129119
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-17-18-08-41-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172129606
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-05-15-23-52-33-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172130132
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-28-23-01-40-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172130623
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-27-23-27-40-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172131077
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-27-01-02-39-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172131840
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-20-16-48-57-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172132640
+        },
+        {
+          "timestampMillis": 1757172135224
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-11-18-52-39-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172133224
+        },
+        {
+          "timestampMillis": 1757172134832
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-09-21-55-52-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172133632
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-04-06-04-15-58-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757172134319
+        }
+      ]
+    },
+    {
+      "path": "README.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1763186993073
+        },
+        {
+          "timestampMillis": 1763187139821
+        },
+        {
+          "timestampMillis": 1763187141151
+        },
+        {
+          "timestampMillis": 1763312907383
+        },
+        {
+          "timestampMillis": 1763469254192
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/C - Done.Overview.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763527204315
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-06-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1757177667515
+        },
+        {
+          "timestampMillis": 1757177667726
+        },
+        {
+          "timestampMillis": 1757177723147
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-07-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757254216517
+        },
+        {
+          "timestampMillis": 1757254216775
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/小米手机在电脑上控制.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761904347659
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/git proxy manager_2025-09-11-18-31-26-Thursday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144254189
+        },
+        {
+          "timestampMillis": 1763144258469
+        },
+        {
+          "timestampMillis": 1763574734535
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-11-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1757608179352
+        },
+        {
+          "timestampMillis": 1757608179609
+        },
+        {
+          "timestampMillis": 1757608249336
+        },
+        {
+          "timestampMillis": 1757608250260
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-12-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1757608334674
+        },
+        {
+          "timestampMillis": 1757608334891
+        },
+        {
+          "timestampMillis": 1757608456377
+        },
+        {
+          "timestampMillis": 1757642757264
+        },
+        {
+          "timestampMillis": 1758806755976
+        },
+        {
+          "timestampMillis": 1758806762827
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-09-12-10-30-12-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873256160
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/珠海旅游规划.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760893339127
+        },
+        {
+          "timestampMillis": 1761943076795
+        },
+        {
+          "timestampMillis": 1761943077037
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/RoadMap.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1760893227790
+        },
+        {
+          "timestampMillis": 1760893228048
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/记录-英文随手记/E-Words.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1760754035345
+        },
+        {
+          "timestampMillis": 1760893230088
+        },
+        {
+          "timestampMillis": 1763351037222
+        },
+        {
+          "timestampMillis": 1763351037576
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-01-Client/Web/问卷星提取问题和选项.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762675842589
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/AD cookie cleanup_2025-05-26-03-00-11-Monday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144144639
+        },
+        {
+          "timestampMillis": 1763523084498
+        },
+        {
+          "timestampMillis": 1763523085917
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/AI 数字人_2024-05-20-02-23-36-星期一.md",
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930631517
+        },
+        {
+          "timestampMillis": 1761559317653
+        },
+        {
+          "timestampMillis": 1761559336293
+        },
+        {
+          "timestampMillis": 1763144160027
+        },
+        {
+          "timestampMillis": 1763522859469
+        },
+        {
+          "timestampMillis": 1763523085261
+        },
+        {
+          "timestampMillis": 1763523106810
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Dify RAG_2025-03-29-15-59-04-Saturday.md",
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930632084
+        },
+        {
+          "timestampMillis": 1761559317875
+        },
+        {
+          "timestampMillis": 1761559326174
+        },
+        {
+          "timestampMillis": 1763144175115
+        },
+        {
+          "timestampMillis": 1763144178405
+        },
+        {
+          "timestampMillis": 1763523125115
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2024-05-09-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757849206206
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2024-01-02-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757849206905
+        },
+        {
+          "timestampMillis": 1757849208797
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2024-01-18-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757849207467
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-08-22-16-51-46-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757849208270
+        },
+        {
+          "timestampMillis": 1757849209627
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-06-25-15-03-56-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1757849215068
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-14-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1757863958915
+        },
+        {
+          "timestampMillis": 1757863959105
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-16-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758038220122
+        },
+        {
+          "timestampMillis": 1758038220307
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-09-17-04-24-39-Wednesday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873218634
+        },
+        {
+          "timestampMillis": 1760873222202
+        },
+        {
+          "timestampMillis": 1760873251610
+        },
+        {
+          "timestampMillis": 1760873290669
+        },
+        {
+          "timestampMillis": 1761648453382
+        },
+        {
+          "timestampMillis": 1762016467393
+        },
+        {
+          "timestampMillis": 1763027695250
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-17-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1758094144331
+        },
+        {
+          "timestampMillis": 1758094144578
+        },
+        {
+          "timestampMillis": 1758665024658
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Others/小米手机出现工作文件夹，内部应用无法正常卸载.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758094970285
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Others/手机自动化软件.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758094975967
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Others/微信边打字翻译.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1758095011336
+        },
+        {
+          "timestampMillis": 1758095011514
+        },
+        {
+          "timestampMillis": 1758095030062
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/RVC 训练声音_2024-05-19-02-37-51-星期日.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930633030
+        },
+        {
+          "timestampMillis": 1761559318596
+        },
+        {
+          "timestampMillis": 1761559341538
+        },
+        {
+          "timestampMillis": 1762969915816
+        },
+        {
+          "timestampMillis": 1762969920828
+        },
+        {
+          "timestampMillis": 1763574558300
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.2 Channel/Capture talk.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760754028279
+        },
+        {
+          "timestampMillis": 1762883513521
+        },
+        {
+          "timestampMillis": 1763351052342
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-19-Fiday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758297966518
+        },
+        {
+          "timestampMillis": 1758297966733
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-21-Sunday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758388639604
+        },
+        {
+          "timestampMillis": 1758651519110
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-08-Route/每逢晚上宽带网络卡顿.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1758491622916
+        },
+        {
+          "timestampMillis": 1758491624808
+        },
+        {
+          "timestampMillis": 1758491625696
+        },
+        {
+          "timestampMillis": 1760932874010
+        },
+        {
+          "timestampMillis": 1760932877948
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2024-10-25-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758491635549
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2024-11-21-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758491636067
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/局域网-网络设备.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149970188
+        },
+        {
+          "timestampMillis": 1761149986945
+        },
+        {
+          "timestampMillis": 1761674411853
+        },
+        {
+          "timestampMillis": 1761674419796
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/2025-09-24-02-43-49-Wednesday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873214208
+        },
+        {
+          "timestampMillis": 1760873255379
+        },
+        {
+          "timestampMillis": 1760873276687
+        },
+        {
+          "timestampMillis": 1762016432702
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/B - Draw/Custom-Lib.excalidraw",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758654070894
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/局域网-主机设备.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1758663787489
+        },
+        {
+          "timestampMillis": 1761149971174
+        },
+        {
+          "timestampMillis": 1761149986340
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-08-29-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758665040203
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-09-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758665069482
+        },
+        {
+          "timestampMillis": 1758665074999
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-24-Wednesday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1761575464300
+        },
+        {
+          "timestampMillis": 1761575464533
+        },
+        {
+          "timestampMillis": 1761575554542
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-08-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758665159144
+        },
+        {
+          "timestampMillis": 1758665182521
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-09-25-Thursday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1761575472577
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-09-24-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1761930062125
+        },
+        {
+          "timestampMillis": 1761930375118
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/五一旅游记录-河源.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761943075801
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/深圳十峰.md",
+      "uniqueDaysOpened": 11,
+      "totalTimesOpened": 28,
+      "openLogs": [
+        {
+          "timestampMillis": 1760893237319
+        },
+        {
+          "timestampMillis": 1760893334355
+        },
+        {
+          "timestampMillis": 1761637831626
+        },
+        {
+          "timestampMillis": 1761901719199
+        },
+        {
+          "timestampMillis": 1761939491675
+        },
+        {
+          "timestampMillis": 1761941389589
+        },
+        {
+          "timestampMillis": 1761941389845
+        },
+        {
+          "timestampMillis": 1761943071899
+        },
+        {
+          "timestampMillis": 1761943077529
+        },
+        {
+          "timestampMillis": 1761943080147
+        },
+        {
+          "timestampMillis": 1761999741498
+        },
+        {
+          "timestampMillis": 1761999741634
+        },
+        {
+          "timestampMillis": 1762003427450
+        },
+        {
+          "timestampMillis": 1762111912592
+        },
+        {
+          "timestampMillis": 1762111951029
+        },
+        {
+          "timestampMillis": 1762111958101
+        },
+        {
+          "timestampMillis": 1762522225066
+        },
+        {
+          "timestampMillis": 1762620975151
+        },
+        {
+          "timestampMillis": 1762620975361
+        },
+        {
+          "timestampMillis": 1762621105905
+        },
+        {
+          "timestampMillis": 1762883854440
+        },
+        {
+          "timestampMillis": 1762883854714
+        },
+        {
+          "timestampMillis": 1762980092271
+        },
+        {
+          "timestampMillis": 1763028976051
+        },
+        {
+          "timestampMillis": 1763029477003
+        },
+        {
+          "timestampMillis": 1763469141376
+        },
+        {
+          "timestampMillis": 1763469141616
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/Archive/自我评价和要求.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758775919511
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/Archive/爸爸领取退伍军人证明.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758775920982
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-19-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760855292516
+        },
+        {
+          "timestampMillis": 1760855292733
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-10-10-01-37-51-Friday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873219883
+        },
+        {
+          "timestampMillis": 1760873223008
+        },
+        {
+          "timestampMillis": 1760873253141
+        },
+        {
+          "timestampMillis": 1761648452986
+        },
+        {
+          "timestampMillis": 1762016469101
+        },
+        {
+          "timestampMillis": 1763027698564
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-10-19-19-27-07-Sunday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873227669
+        },
+        {
+          "timestampMillis": 1760873227832
+        },
+        {
+          "timestampMillis": 1760873254369
+        },
+        {
+          "timestampMillis": 1761648451844
+        },
+        {
+          "timestampMillis": 1762016474488
+        },
+        {
+          "timestampMillis": 1762016483186
+        },
+        {
+          "timestampMillis": 1763027701903
+        },
+        {
+          "timestampMillis": 1763027718711
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-09-08-11-48-48-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873248997
+        },
+        {
+          "timestampMillis": 1760873290197
+        },
+        {
+          "timestampMillis": 1761648454082
+        },
+        {
+          "timestampMillis": 1762016461647
+        },
+        {
+          "timestampMillis": 1762016465697
+        },
+        {
+          "timestampMillis": 1763027691132
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-09-11-11-01-00-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873260795
+        },
+        {
+          "timestampMillis": 1760873272818
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-09-09-12-02-19-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873262877
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-09-10-15-56-06-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760873270533
+        },
+        {
+          "timestampMillis": 1761126998522
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/记录-英文随手记/E-Sentences.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760893229681
+        },
+        {
+          "timestampMillis": 1763351036899
+        },
+        {
+          "timestampMillis": 1763351045787
+        },
+        {
+          "timestampMillis": 1763616672633
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-12-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760924714102
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/爸爸和妈妈银行卡.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1760928186370
+        },
+        {
+          "timestampMillis": 1760928750023
+        },
+        {
+          "timestampMillis": 1760929397570
+        },
+        {
+          "timestampMillis": 1760929402437
+        },
+        {
+          "timestampMillis": 1760948078042
+        },
+        {
+          "timestampMillis": 1761150566840
+        },
+        {
+          "timestampMillis": 1761485841793
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/无宽带环境，设置网络_2025-10-12-13-14-58-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930581702
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/伸缩，翻盖亚克力立牌_2025-10-07-00-04-08-Tuesday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760930629451
+        },
+        {
+          "timestampMillis": 1760930629985
+        },
+        {
+          "timestampMillis": 1761559301713
+        },
+        {
+          "timestampMillis": 1761559330756
+        },
+        {
+          "timestampMillis": 1763144127796
+        },
+        {
+          "timestampMillis": 1763522957733
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/MacOS/Mac M2 VMware Fusion 安装 Win11.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760932996312
+        },
+        {
+          "timestampMillis": 1760933006779
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/KMS 激活 Windows.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1760933021548
+        },
+        {
+          "timestampMillis": 1761764631764
+        },
+        {
+          "timestampMillis": 1761764634263
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2023-10-30-星期一.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760933024498
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2023-08-28-星期一.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760933029172
+        },
+        {
+          "timestampMillis": 1760933036279
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/下载 ISO系统镜像.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760933080064
+        },
+        {
+          "timestampMillis": 1760933097744
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-21-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761013580666
+        },
+        {
+          "timestampMillis": 1761052184318
+        },
+        {
+          "timestampMillis": 1761052184542
+        },
+        {
+          "timestampMillis": 1761059645806
+        },
+        {
+          "timestampMillis": 1761059646029
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/OpenShift CronJob Dev Practice.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761027012437
+        },
+        {
+          "timestampMillis": 1761062511487
+        },
+        {
+          "timestampMillis": 1761062511742
+        },
+        {
+          "timestampMillis": 1761062513321
+        },
+        {
+          "timestampMillis": 1761117248448
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/远程物理操作主机_2025-10-10-01-50-56-Friday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1761060546938
+        },
+        {
+          "timestampMillis": 1762969914699
+        },
+        {
+          "timestampMillis": 1762969919969
+        },
+        {
+          "timestampMillis": 1763523444102
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/局域网-VMware.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1761143865858
+        },
+        {
+          "timestampMillis": 1761149971802
+        },
+        {
+          "timestampMillis": 1761149985148
+        },
+        {
+          "timestampMillis": 1761488532875
+        },
+        {
+          "timestampMillis": 1761488539547
+        },
+        {
+          "timestampMillis": 1761488542144
+        },
+        {
+          "timestampMillis": 1761488626999
+        },
+        {
+          "timestampMillis": 1761488631734
+        },
+        {
+          "timestampMillis": 1761976367638
+        },
+        {
+          "timestampMillis": 1761980910726
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/轻量自建 git_2025-10-22-23-29-01-Wednesday.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 12,
+      "openLogs": [
+        {
+          "timestampMillis": 1761146953496
+        },
+        {
+          "timestampMillis": 1761146953708
+        },
+        {
+          "timestampMillis": 1761147260940
+        },
+        {
+          "timestampMillis": 1761147602718
+        },
+        {
+          "timestampMillis": 1761467993404
+        },
+        {
+          "timestampMillis": 1761559299285
+        },
+        {
+          "timestampMillis": 1761559302352
+        },
+        {
+          "timestampMillis": 1761674817955
+        },
+        {
+          "timestampMillis": 1761675640422
+        },
+        {
+          "timestampMillis": 1761684477304
+        },
+        {
+          "timestampMillis": 1761684550832
+        },
+        {
+          "timestampMillis": 1761926850347
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/Archive/工行收款二维码.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149932926
+        },
+        {
+          "timestampMillis": 1761149967850
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/Github.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149940044
+        },
+        {
+          "timestampMillis": 1761150003278
+        },
+        {
+          "timestampMillis": 1763156822870
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/微信开放平台.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149972422
+        },
+        {
+          "timestampMillis": 1761149984284
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/虚拟货币.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149974141
+        },
+        {
+          "timestampMillis": 1761149980449
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/邮箱帐号.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149975033
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/Badges 账号.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1761149999488
+        },
+        {
+          "timestampMillis": 1762441736829
+        },
+        {
+          "timestampMillis": 1762681087099
+        },
+        {
+          "timestampMillis": 1762681088367
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-23-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761206050242
+        },
+        {
+          "timestampMillis": 1761233055899
+        },
+        {
+          "timestampMillis": 1761233056009
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-24-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761240056999
+        },
+        {
+          "timestampMillis": 1761240057227
+        },
+        {
+          "timestampMillis": 1761294831742
+        },
+        {
+          "timestampMillis": 1761302017925
+        },
+        {
+          "timestampMillis": 1762522015928
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/IBM MacOS Cisco VPN 连接不上.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761242067201
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-13-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761299613322
+        },
+        {
+          "timestampMillis": 1761299613679
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/深圳租房生活/租房要求.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761493719812
+        },
+        {
+          "timestampMillis": 1761493725630
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/深圳租房生活/嘉梅小区租房插座和用电.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1761493746599
+        },
+        {
+          "timestampMillis": 1761496697790
+        },
+        {
+          "timestampMillis": 1762624791430
+        },
+        {
+          "timestampMillis": 1762626039457
+        },
+        {
+          "timestampMillis": 1762680746845
+        },
+        {
+          "timestampMillis": 1763384758979
+        },
+        {
+          "timestampMillis": 1763663200243
+        },
+        {
+          "timestampMillis": 1763663208746
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.5 Diagram/Vector DB CICD Pipeline/Ventor DB CICD Pipeline.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761555448212
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Jenkins Setup Pipeline.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761555456769
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Jenkins Job list Conjur secret.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761559248593
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-27-Monday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1761575481789
+        },
+        {
+          "timestampMillis": 1761576026297
+        },
+        {
+          "timestampMillis": 1761576027207
+        },
+        {
+          "timestampMillis": 1762251757323
+        },
+        {
+          "timestampMillis": 1762251757541
+        },
+        {
+          "timestampMillis": 1762741453911
+        },
+        {
+          "timestampMillis": 1762741454187
+        },
+        {
+          "timestampMillis": 1762941688175
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-28-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761637841199
+        },
+        {
+          "timestampMillis": 1761637841397
+        },
+        {
+          "timestampMillis": 1761640472702
+        },
+        {
+          "timestampMillis": 1761640472875
+        },
+        {
+          "timestampMillis": 1761648461463
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-10-28-18-47-08-Tuesday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761648428504
+        },
+        {
+          "timestampMillis": 1762016475972
+        },
+        {
+          "timestampMillis": 1762016482278
+        },
+        {
+          "timestampMillis": 1763027713801
+        },
+        {
+          "timestampMillis": 1763027716922
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-10-29-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1761671178551
+        },
+        {
+          "timestampMillis": 1761671178765
+        },
+        {
+          "timestampMillis": 1761691958301
+        },
+        {
+          "timestampMillis": 1761691958480
+        },
+        {
+          "timestampMillis": 1761692972392
+        },
+        {
+          "timestampMillis": 1761692972622
+        },
+        {
+          "timestampMillis": 1761882402658
+        },
+        {
+          "timestampMillis": 1761882402924
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/设置程序以管理员方式运行.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761680810820
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2023-02-21-星期二.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761755518135
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/报销发票信息.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764448408
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/2024 IBM 急救培训.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764450583
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/2024 Annual Performance Reflection.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764452462
+        },
+        {
+          "timestampMillis": 1763663652734
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/技术咨询帮助电话.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764454405
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/五险一金相关内容.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764510172
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/家庭事项纪要/家庭常备药物列表.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764514460
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/Device/换新笔记本 Mac，归还旧笔记本 thinkpad.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761764570342
+        },
+        {
+          "timestampMillis": 1761764578152
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-10-30-12-52-03-Thursday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1761799923375
+        },
+        {
+          "timestampMillis": 1761799923563
+        },
+        {
+          "timestampMillis": 1761811152315
+        },
+        {
+          "timestampMillis": 1762016480525
+        },
+        {
+          "timestampMillis": 1762741404289
+        },
+        {
+          "timestampMillis": 1762741417282
+        },
+        {
+          "timestampMillis": 1762741455149
+        },
+        {
+          "timestampMillis": 1762741455681
+        },
+        {
+          "timestampMillis": 1762741456861
+        },
+        {
+          "timestampMillis": 1762745989747
+        },
+        {
+          "timestampMillis": 1763027715257
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/识别服务器硬盘位置_2025-10-31-21-54-13-Friday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1761918871286
+        },
+        {
+          "timestampMillis": 1761918871518
+        },
+        {
+          "timestampMillis": 1761918887155
+        },
+        {
+          "timestampMillis": 1761921310162
+        },
+        {
+          "timestampMillis": 1761921310354
+        },
+        {
+          "timestampMillis": 1761923012680
+        },
+        {
+          "timestampMillis": 1761924414299
+        },
+        {
+          "timestampMillis": 1761926842132
+        },
+        {
+          "timestampMillis": 1761926861721
+        },
+        {
+          "timestampMillis": 1761926870726
+        },
+        {
+          "timestampMillis": 1761926875022
+        },
+        {
+          "timestampMillis": 1761926877440
+        },
+        {
+          "timestampMillis": 1761926886363
+        },
+        {
+          "timestampMillis": 1763523826434
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/单词翻译统计_2024-04-22-01-13-41-星期一.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926848936
+        },
+        {
+          "timestampMillis": 1762969901204
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/键盘按键-触发程序_2023-03-20-01-28-46-星期一.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926849745
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/腾讯云证书自动续签_2024-11-24-05-20-57-星期日.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926850755
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/整体架构图_2023-05-07-02-20-58-星期日.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926851110
+        },
+        {
+          "timestampMillis": 1763524171016
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/重建手机电脑同步 verysync_2025-10-26-16-40-17-Sunday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926852610
+        },
+        {
+          "timestampMillis": 1763144287405
+        },
+        {
+          "timestampMillis": 1763144290183
+        },
+        {
+          "timestampMillis": 1763144295798
+        },
+        {
+          "timestampMillis": 1763144297705
+        },
+        {
+          "timestampMillis": 1763144312537
+        },
+        {
+          "timestampMillis": 1763477467038
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/自动化测试工具 2023-03-06~23-46-22.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926855206
+        },
+        {
+          "timestampMillis": 1761926856551
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/自动化每日Pixiv保存图片_2023-03-20-01-10-32-星期一.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926855657
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/Java 便捷代码片段库_2023-04-01-00-54-05-星期六.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926858589
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/VPN 每日签到 2023-03-20-01-45-30-星期一.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1761926859936
+        },
+        {
+          "timestampMillis": 1763523838508
+        },
+        {
+          "timestampMillis": 1763524093894
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-11-01-Saturday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1761930040080
+        },
+        {
+          "timestampMillis": 1761930040294
+        },
+        {
+          "timestampMillis": 1761930066000
+        },
+        {
+          "timestampMillis": 1761930383973
+        },
+        {
+          "timestampMillis": 1762272131534
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-01-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1761941174471
+        },
+        {
+          "timestampMillis": 1761941174691
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/深圳鲲鹏径.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1761943067542
+        },
+        {
+          "timestampMillis": 1761943073455
+        },
+        {
+          "timestampMillis": 1761943078889
+        },
+        {
+          "timestampMillis": 1761943083622
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/去香港逛逛-路线事项预习.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761943074176
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/户外运动和旅游记录/香港旅游总结回顾.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1761943076454
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/未来生活准备/买房家具生活日常消费预计.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762098747948
+        },
+        {
+          "timestampMillis": 1762098775075
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/智能家居/蓝牙和蓝牙 Mesh 设备.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762098790994
+        },
+        {
+          "timestampMillis": 1762098791150
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Windows/网络磁盘容量不显示.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762102201322
+        },
+        {
+          "timestampMillis": 1762102201566
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Force CRQ Pipeline.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762142768517
+        },
+        {
+          "timestampMillis": 1762411018791
+        },
+        {
+          "timestampMillis": 1762742383495
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/False Postive study.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762191663493
+        },
+        {
+          "timestampMillis": 1762191663749
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-10-Cloud/Cloud Certifications Exams.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762231596219
+        },
+        {
+          "timestampMillis": 1762231596464
+        },
+        {
+          "timestampMillis": 1762979949177
+        },
+        {
+          "timestampMillis": 1762979949434
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-04-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762251768869
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-11-05-Wednesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762272127352
+        },
+        {
+          "timestampMillis": 1762272127558
+        },
+        {
+          "timestampMillis": 1762272136793
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-06-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762358731311
+        },
+        {
+          "timestampMillis": 1762363137227
+        },
+        {
+          "timestampMillis": 1762363137332
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/NIKEE 无法进入游戏.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411293696
+        },
+        {
+          "timestampMillis": 1762411310154
+        },
+        {
+          "timestampMillis": 1762411318539
+        },
+        {
+          "timestampMillis": 1762411323370
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/archive/忍者神龟 Steam 联机.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411303529
+        },
+        {
+          "timestampMillis": 1762411305810
+        },
+        {
+          "timestampMillis": 1762411312867
+        },
+        {
+          "timestampMillis": 1762411352334
+        },
+        {
+          "timestampMillis": 1762411569770
+        },
+        {
+          "timestampMillis": 1762411595696
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/archive/DNF 搬砖摇篮冒险移速装备.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411305221
+        },
+        {
+          "timestampMillis": 1762411307797
+        },
+        {
+          "timestampMillis": 1762411314348
+        },
+        {
+          "timestampMillis": 1762411352081
+        },
+        {
+          "timestampMillis": 1762411570593
+        },
+        {
+          "timestampMillis": 1762411587460
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/DNF 键盘控制.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411308317
+        },
+        {
+          "timestampMillis": 1762411316349
+        },
+        {
+          "timestampMillis": 1762411350682
+        },
+        {
+          "timestampMillis": 1762411573078
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/archive/DNF 每周任务.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411308946
+        },
+        {
+          "timestampMillis": 1762411317012
+        },
+        {
+          "timestampMillis": 1762411351290
+        },
+        {
+          "timestampMillis": 1762411560717
+        },
+        {
+          "timestampMillis": 1762411584922
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/MuMu 模拟器无网络.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411309504
+        },
+        {
+          "timestampMillis": 1762411317617
+        },
+        {
+          "timestampMillis": 1762411322144
+        },
+        {
+          "timestampMillis": 1762411349856
+        },
+        {
+          "timestampMillis": 1763140965375
+        },
+        {
+          "timestampMillis": 1763140969724
+        },
+        {
+          "timestampMillis": 1763140994723
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/Pokemon 属性解释.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411319629
+        },
+        {
+          "timestampMillis": 1762411600892
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/Pokemon 属性克制表.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411321287
+        },
+        {
+          "timestampMillis": 1762411624700
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/NIKKE 装备.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762411366530
+        },
+        {
+          "timestampMillis": 1762411445467
+        },
+        {
+          "timestampMillis": 1763548159713
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Onboard Checklist.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762483630672
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Claim Code.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762483633184
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/Cathay 名词术语.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762483633992
+        },
+        {
+          "timestampMillis": 1762483635770
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.1 Config/NTE 注意事项.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762483653294
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-11-07-22-07-36-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1762524457126
+        },
+        {
+          "timestampMillis": 1762524457314
+        },
+        {
+          "timestampMillis": 1763026908221
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-07-Hardware/HAM/守听国家授时中心 BPM 电波.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762532839553
+        },
+        {
+          "timestampMillis": 1762542288888
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/PyCharm/PyCharm 配置 pip 源和下载依赖.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762540147351
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-11-09-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762619834789
+        },
+        {
+          "timestampMillis": 1762619834958
+        },
+        {
+          "timestampMillis": 1762620117742
+        },
+        {
+          "timestampMillis": 1762620119852
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-09-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762621543971
+        },
+        {
+          "timestampMillis": 1762621544208
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-01-Client/Web/AWS Skill builder 快速执行测试并收集答案.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1762676637480
+        },
+        {
+          "timestampMillis": 1762676655023
+        },
+        {
+          "timestampMillis": 1762676697357
+        },
+        {
+          "timestampMillis": 1762676701745
+        },
+        {
+          "timestampMillis": 1762966993291
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-01-Client/Web/IBM Skill Build 页面下拉点击.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762676645646
+        },
+        {
+          "timestampMillis": 1762676703742
+        },
+        {
+          "timestampMillis": 1762676849156
+        },
+        {
+          "timestampMillis": 1762966823955
+        },
+        {
+          "timestampMillis": 1762966984779
+        },
+        {
+          "timestampMillis": 1762967001795
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/W3 设置 Passkey 在 Macbook 登录.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1762741457916
+        },
+        {
+          "timestampMillis": 1762741458367
+        },
+        {
+          "timestampMillis": 1762741459654
+        },
+        {
+          "timestampMillis": 1762741460208
+        },
+        {
+          "timestampMillis": 1762741461123
+        },
+        {
+          "timestampMillis": 1762741461520
+        },
+        {
+          "timestampMillis": 1762741462044
+        },
+        {
+          "timestampMillis": 1762741462620
+        },
+        {
+          "timestampMillis": 1762745985909
+        },
+        {
+          "timestampMillis": 1763663679284
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Jenkins Script Var setup.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762748107929
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Others/荣耀Magicbook驱动下载和U盘启动键.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769743212
+        },
+        {
+          "timestampMillis": 1762769870403
+        },
+        {
+          "timestampMillis": 1763030542395
+        },
+        {
+          "timestampMillis": 1763030562774
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Docker/hardware assisted virtualization and data execution protection must be enabled in the bios.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769756290
+        },
+        {
+          "timestampMillis": 1762769770352
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-07-Hardware/RAM/内存条插上主板反复重启.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769759663
+        },
+        {
+          "timestampMillis": 1762769768453
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.3 Prewrite/archive/QA Ventor DB CICD Pipeline.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769773779
+        },
+        {
+          "timestampMillis": 1762769779152
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Others/荣耀 Magicbook Bios 按键.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762769892747
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/2025-11-11-14-19-28-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762841968801
+        },
+        {
+          "timestampMillis": 1762841969024
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-11-11-17-20-42-Tuesday.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1762852842314
+        },
+        {
+          "timestampMillis": 1762852842514
+        },
+        {
+          "timestampMillis": 1762854704255
+        },
+        {
+          "timestampMillis": 1763026906934
+        },
+        {
+          "timestampMillis": 1763026908768
+        },
+        {
+          "timestampMillis": 1763027681354
+        },
+        {
+          "timestampMillis": 1763479330222
+        },
+        {
+          "timestampMillis": 1763659922674
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-11-Tuesday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853726718
+        },
+        {
+          "timestampMillis": 1762853727269
+        },
+        {
+          "timestampMillis": 1762854701083
+        },
+        {
+          "timestampMillis": 1762937583768
+        },
+        {
+          "timestampMillis": 1762937583982
+        },
+        {
+          "timestampMillis": 1763161845179
+        },
+        {
+          "timestampMillis": 1763161848098
+        },
+        {
+          "timestampMillis": 1763161855210
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/PIP Timeout handing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853773024
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Git 设置代理.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853897061
+        },
+        {
+          "timestampMillis": 1763523595716
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/ibm office wifi proxy to chatgpt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853901507
+        },
+        {
+          "timestampMillis": 1762853902646
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/0 - Work_Temp/Archive/2025-08-19-12-02-50-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853903690
+        },
+        {
+          "timestampMillis": 1762854694875
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Python/PIP 设置代理.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762853913978
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Other/绕过验证码卸载亚信入网小助手.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762856006169
+        },
+        {
+          "timestampMillis": 1762883530825
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2023-06-28-00-41-45-星期三.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762856027841
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-06-Tools/Other/TrafficMonitor缺少mcf140u.dll无法启动.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762883544757
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-11-12-16-50-22-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762937422996
+        },
+        {
+          "timestampMillis": 1762937423228
+        },
+        {
+          "timestampMillis": 1763026906225
+        },
+        {
+          "timestampMillis": 1763026909744
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Dify 自动回答 AWS Skill builder 题目_2025-03-29-16-01-03-Saturday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762966988720
+        },
+        {
+          "timestampMillis": 1763144174465
+        },
+        {
+          "timestampMillis": 1763144176555
+        },
+        {
+          "timestampMillis": 1763523124235
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-03-29-19-01-31-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762966991902
+        },
+        {
+          "timestampMillis": 1762966993949
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2024-08-30-22-46-53-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762966996379
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2022-07-05.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1762969926942
+        },
+        {
+          "timestampMillis": 1762969941508
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/Archive/2022-06-03.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1762969939304
+        },
+        {
+          "timestampMillis": 1762969942922
+        },
+        {
+          "timestampMillis": 1762969999083
+        },
+        {
+          "timestampMillis": 1762970202870
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/重启 Shooturkey 导航站_2025-11-13-01-56-42-Thursday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1762970220442
+        },
+        {
+          "timestampMillis": 1762970220720
+        },
+        {
+          "timestampMillis": 1763469217001
+        },
+        {
+          "timestampMillis": 1763522028937
+        },
+        {
+          "timestampMillis": 1763523441741
+        },
+        {
+          "timestampMillis": 1763524161735
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-10-Cloud/Free Badges List.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1762979950582
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-11-13-17-41-37-Thursday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763026897907
+        },
+        {
+          "timestampMillis": 1763026898102
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-10-Monday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763093180177
+        },
+        {
+          "timestampMillis": 1763161848923
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-14-Friday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1763135488257
+        },
+        {
+          "timestampMillis": 1763135488634
+        },
+        {
+          "timestampMillis": 1763161841313
+        },
+        {
+          "timestampMillis": 1763161846372
+        },
+        {
+          "timestampMillis": 1763161855724
+        },
+        {
+          "timestampMillis": 1763181890606
+        },
+        {
+          "timestampMillis": 1763181957219
+        },
+        {
+          "timestampMillis": 1763378673307
+        },
+        {
+          "timestampMillis": 1763378673547
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Elasticsearch/Elastic Stack Beginner.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763136704677
+        }
+      ]
+    },
+    {
+      "path": "F - Note_Other/Game/MuMu 模拟器多开同时跑 ALAS,MAA.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763140990369
+        },
+        {
+          "timestampMillis": 1763140995402
+        },
+        {
+          "timestampMillis": 1763141616489
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/【开源项目】CDN API 静态资源服务器 2023-03-14~08-53-21.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144098563
+        },
+        {
+          "timestampMillis": 1763522945958
+        },
+        {
+          "timestampMillis": 1763523397671
+        },
+        {
+          "timestampMillis": 1763523406146
+        },
+        {
+          "timestampMillis": 1763642596119
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/前沿技术相关 RSS_2023-11-12-01-39-22-星期日.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144124363
+        },
+        {
+          "timestampMillis": 1763522957012
+        },
+        {
+          "timestampMillis": 1763522958893
+        },
+        {
+          "timestampMillis": 1763523447346
+        },
+        {
+          "timestampMillis": 1763524163922
+        },
+        {
+          "timestampMillis": 1763574589128
+        },
+        {
+          "timestampMillis": 1763574642386
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/生成 blog 脚本 2023-03-13~03-22-44.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144128385
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/网站访客数量记录_2023-12-30-22-12-10-星期六.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144130933
+        },
+        {
+          "timestampMillis": 1763523046648
+        },
+        {
+          "timestampMillis": 1763523445505
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/微信表情包投稿_2023-09-19-18-07-27-星期二.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144136259
+        },
+        {
+          "timestampMillis": 1763523056857
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/一键登录FortiClient 2023-03-06~23-47-04.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144139367
+        },
+        {
+          "timestampMillis": 1763523057662
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/自制 RSS_2023-04-03-02-35-53-星期一.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144141471
+        },
+        {
+          "timestampMillis": 1763523059752
+        },
+        {
+          "timestampMillis": 1763523354601
+        },
+        {
+          "timestampMillis": 1763523391166
+        },
+        {
+          "timestampMillis": 1763523440333
+        },
+        {
+          "timestampMillis": 1763524157810
+        },
+        {
+          "timestampMillis": 1763536403769
+        },
+        {
+          "timestampMillis": 1763574579841
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/ACG character rank_2025-01-27-01-16-51-Monday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144143240
+        },
+        {
+          "timestampMillis": 1763523083167
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/cloud cheatsheet automation_2024-04-30-22-51-26-星期二.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144171982
+        },
+        {
+          "timestampMillis": 1763523108867
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Markdown 语法检查器-2023-03-16-12-25-05-星期四.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144187295
+        },
+        {
+          "timestampMillis": 1763523141467
+        },
+        {
+          "timestampMillis": 1763523150259
+        },
+        {
+          "timestampMillis": 1763523314292
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/obsidian 目录生成 vuepress.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144196794
+        },
+        {
+          "timestampMillis": 1763523152302
+        },
+        {
+          "timestampMillis": 1763523836474
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Postman Collections run_2024-01-29-20-01-10-星期一.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144197948
+        },
+        {
+          "timestampMillis": 1763523313958
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/quick start page in obsidian_2024-11-22-01-56-42-Friday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144200307
+        },
+        {
+          "timestampMillis": 1763523314859
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/RSS hub 订阅制作_2023-04-02-21-56-28-星期日.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144200936
+        },
+        {
+          "timestampMillis": 1763523327588
+        },
+        {
+          "timestampMillis": 1763523433594
+        },
+        {
+          "timestampMillis": 1763536420603
+        },
+        {
+          "timestampMillis": 1763574557781
+        },
+        {
+          "timestampMillis": 1763574559564
+        },
+        {
+          "timestampMillis": 1763574577540
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/SQL 语句库_2023-04-25-10-10-03-星期二.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763144203778
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/github action auto-enabled_2025-11-15-05-44-09-Saturday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1763156663518
+        },
+        {
+          "timestampMillis": 1763156663676
+        },
+        {
+          "timestampMillis": 1763524885922
+        },
+        {
+          "timestampMillis": 1763574672005
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-15-Saturday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763180204208
+        },
+        {
+          "timestampMillis": 1763180204432
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/PyCharm 用 CPA GitHub 账号设置 Copilot.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763319976919
+        },
+        {
+          "timestampMillis": 1763319977082
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Microsoft Presidio Study.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 24,
+      "openLogs": [
+        {
+          "timestampMillis": 1763381438930
+        },
+        {
+          "timestampMillis": 1763381439119
+        },
+        {
+          "timestampMillis": 1763381444752
+        },
+        {
+          "timestampMillis": 1763381446559
+        },
+        {
+          "timestampMillis": 1763381501475
+        },
+        {
+          "timestampMillis": 1763381502002
+        },
+        {
+          "timestampMillis": 1763381553603
+        },
+        {
+          "timestampMillis": 1763381554148
+        },
+        {
+          "timestampMillis": 1763381563122
+        },
+        {
+          "timestampMillis": 1763381563997
+        },
+        {
+          "timestampMillis": 1763381569934
+        },
+        {
+          "timestampMillis": 1763381570941
+        },
+        {
+          "timestampMillis": 1763381576700
+        },
+        {
+          "timestampMillis": 1763381577272
+        },
+        {
+          "timestampMillis": 1763381585813
+        },
+        {
+          "timestampMillis": 1763381586756
+        },
+        {
+          "timestampMillis": 1763381590904
+        },
+        {
+          "timestampMillis": 1763381592181
+        },
+        {
+          "timestampMillis": 1763381602796
+        },
+        {
+          "timestampMillis": 1763381605260
+        },
+        {
+          "timestampMillis": 1763381663408
+        },
+        {
+          "timestampMillis": 1763381667813
+        },
+        {
+          "timestampMillis": 1763381742900
+        },
+        {
+          "timestampMillis": 1763381743749
+        }
+      ]
+    },
+    {
+      "path": "Z - ObsConfig/Template/80.【IBM-CPA】Title-Record.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763381866436
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~2023.10.31/B-2.7 Jira-Prewrite/Test case all file type for sourceId download stearm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763381875863
+        },
+        {
+          "timestampMillis": 1763381904244
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/CPA Confluence to local files_2025-11-17-20-18-27-Monday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763381921281
+        },
+        {
+          "timestampMillis": 1763381921755
+        },
+        {
+          "timestampMillis": 1763664599189
+        }
+      ]
+    },
+    {
+      "path": "A - Queue/2025-11-18-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763466022754
+        },
+        {
+          "timestampMillis": 1763466022980
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/RSS 客户端_2025-11-18-20-33-51-Tuesday.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1763469242822
+        },
+        {
+          "timestampMillis": 1763469262604
+        },
+        {
+          "timestampMillis": 1763469263378
+        },
+        {
+          "timestampMillis": 1763523434083
+        },
+        {
+          "timestampMillis": 1763536417018
+        },
+        {
+          "timestampMillis": 1763574406187
+        },
+        {
+          "timestampMillis": 1763574560286
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/2025-11-18-23-58-23-Tuesday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763481503367
+        },
+        {
+          "timestampMillis": 1763481503513
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/发布 PyPI 库_2023-10-28-23-30-56-星期六.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522949418
+        },
+        {
+          "timestampMillis": 1763523400731
+        },
+        {
+          "timestampMillis": 1763523404581
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/家庭事项证件整理_2024-03-01-17-33-51-星期五.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522950123
+        },
+        {
+          "timestampMillis": 1763523401350
+        },
+        {
+          "timestampMillis": 1763523402658
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/拉取 Jira List 2023-03-11~10-45-52.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522951167
+        },
+        {
+          "timestampMillis": 1763523401842
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/批量自定义单词查询域名注册结果_2023-05-09-23-45-19-星期二.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763522955912
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-3-CPA-AMS-NTE=2023.11.07~present/B-3.4 Dev/Pipeline Type setup in cx-template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763523598710
+        },
+        {
+          "timestampMillis": 1763524370321
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Git/GitHub 自动更新 Credly 到 README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763523600316
+        },
+        {
+          "timestampMillis": 1763523638051
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/批量导出 kibana dashboard 工具_2025-03-21-04-13-33-Friday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763523821105
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Star/日常工作系统导航_2025-03-31-22-50-45-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763523825602
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/云服务商-中转网络.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763524098581
+        },
+        {
+          "timestampMillis": 1763524102031
+        },
+        {
+          "timestampMillis": 1763524109170
+        },
+        {
+          "timestampMillis": 1763524116416
+        },
+        {
+          "timestampMillis": 1763524141214
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2024-06-29-21-07-53-星期六.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763524117775
+        },
+        {
+          "timestampMillis": 1763524139173
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2024-07-28-23-28-27-星期日.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763524120250
+        },
+        {
+          "timestampMillis": 1763524128075
+        },
+        {
+          "timestampMillis": 1763524139685
+        }
+      ]
+    },
+    {
+      "path": "E - Note_Life/证书考试/业余无线电 A 证.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763526323092
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/Pending/Live2d online viewer_2025-11-19-13-10-14-Wednesday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1763529022635
+        },
+        {
+          "timestampMillis": 1763529025343
+        },
+        {
+          "timestampMillis": 1763529112250
+        },
+        {
+          "timestampMillis": 1763574562116
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Memo_Ideas/构建关注信息流_2025-11-20-12-06-37-Thursday.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 22,
+      "openLogs": [
+        {
+          "timestampMillis": 1763611612824
+        },
+        {
+          "timestampMillis": 1763612044523
+        },
+        {
+          "timestampMillis": 1763612044723
+        },
+        {
+          "timestampMillis": 1763615072479
+        },
+        {
+          "timestampMillis": 1763615072590
+        },
+        {
+          "timestampMillis": 1763629998553
+        },
+        {
+          "timestampMillis": 1763637241494
+        },
+        {
+          "timestampMillis": 1763637305581
+        },
+        {
+          "timestampMillis": 1763637557389
+        },
+        {
+          "timestampMillis": 1763639819353
+        },
+        {
+          "timestampMillis": 1763640847283
+        },
+        {
+          "timestampMillis": 1763642331448
+        },
+        {
+          "timestampMillis": 1763644978243
+        },
+        {
+          "timestampMillis": 1763645009614
+        },
+        {
+          "timestampMillis": 1763649620635
+        },
+        {
+          "timestampMillis": 1763649621919
+        },
+        {
+          "timestampMillis": 1763659974761
+        },
+        {
+          "timestampMillis": 1763660249274
+        },
+        {
+          "timestampMillis": 1763660249820
+        },
+        {
+          "timestampMillis": 1763663740628
+        },
+        {
+          "timestampMillis": 1763665484074
+        },
+        {
+          "timestampMillis": 1763665486161
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/记录-对话术语/为什么体制内大家看起来都很平庸？.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763614722290
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/读书-文学类/《允许自己虚度时光》.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1763614728137
+        },
+        {
+          "timestampMillis": 1763616580753
+        },
+        {
+          "timestampMillis": 1763616592126
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/读书-计算机类/《业余无线电通信》第五版.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763614731019
+        },
+        {
+          "timestampMillis": 1763616571171
+        }
+      ]
+    },
+    {
+      "path": "D - Note_Read/记录-中文随手记/段落句子.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763616560881
+        },
+        {
+          "timestampMillis": 1763616666619
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-01-Client/Hugo/Hugo 常用命令.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763642589099
+        },
+        {
+          "timestampMillis": 1763642926114
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Cink/Archive/Cink.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763642597706
+        },
+        {
+          "timestampMillis": 1763661236106
+        },
+        {
+          "timestampMillis": 1763661284913
+        },
+        {
+          "timestampMillis": 1763661386129
+        },
+        {
+          "timestampMillis": 1763661521946
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Mont/Mont.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763642604716
+        },
+        {
+          "timestampMillis": 1763642607761
+        },
+        {
+          "timestampMillis": 1763642610850
+        },
+        {
+          "timestampMillis": 1763662603846
+        },
+        {
+          "timestampMillis": 1763662604109
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Hstiro/Hstiro.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763642611262
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/LAN-PHYS-PROG/Hugo - 局域网导航.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763642612405
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/RepoManager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763643868752
+        },
+        {
+          "timestampMillis": 1763643947681
+        }
+      ]
+    },
+    {
+      "path": "Y - Elias_Summer/2025-04-27-Sunday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763659923572
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2025-03-17-21-33-39-Monday.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763659924234
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~2023.10.31/B-2.1 Basic-Conf/【PCCW】 工作对话术语收集.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763659925074
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2023-06-08-11-31-55-星期四.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763659925454
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/Z-WAN-Offline/WAN-Notepad/Notepad.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763659926292
+        },
+        {
+          "timestampMillis": 1763659968953
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Excalidraw/Excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763661305626
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Canoe/迁移到 Vercel 进行自动化部署.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763661316089
+        },
+        {
+          "timestampMillis": 1763661517788
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Architecture/Architecture Maps.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763661357607
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Canoe/Canoe.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763661515138
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/WAN-Cink/Cink - Reboot.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763661529767
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2023-06-23-03-44-04-星期五.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663201457
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-20-AI/大模型微调.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663625555
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-20-AI/Image Generation.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663626559
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/Technical star Justification and win points.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663675169
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/TNB SZ Office 524 会议室投影.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663677577
+        }
+      ]
+    },
+    {
+      "path": "B - Note_Teams/B-0-IBM/Benefits 员工保险.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763663682624
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Java/Springboot 启动提示 org.apache.tomcat.jni.LibraryNotFoundError.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763690219847
+        }
+      ]
+    },
+    {
+      "path": "C - Note_Dev/C-02-Server/Python/Selenium 启动不影响执行，但是有错误提示.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763690222848
+        }
+      ]
+    },
+    {
+      "path": "G - Elias_Reco/Z-WAN-Offline/WAN-Nginx-Proxy-Manager/Nginx-Proxy-Manager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763690223828
+        }
+      ]
+    },
+    {
+      "path": "0 - Stack/A - Draft_Folder/Archive/2023-11-03-02-15-32-星期五.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763690225871
+        }
+      ]
+    },
+    {
+      "path": "R - Elias_0x24s/服务平台配置信息/云服务商-机器服务.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763690246582
+        }
+      ]
+    },
+    {
+      "path": "IT Text/碧蓝航线的动态.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1763733184303
+        },
+        {
+          "timestampMillis": 1763733209133
+        },
+        {
+          "timestampMillis": 1763733446841
+        },
+        {
+          "timestampMillis": 1763733526677
+        },
+        {
+          "timestampMillis": 1763733561460
+        }
+      ]
+    },
+    {
+      "path": "hello-world.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1763733445001
+        },
+        {
+          "timestampMillis": 1763733448058
+        }
+      ]
+    },
+    {
+      "path": "source/_posts/IT_Text/asdasdsa.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763738124432
+        }
+      ]
+    },
+    {
+      "path": "source/_posts/IT_Text/obsidian 下载当前文件内所有附 - Google 搜索.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763738736581
+        }
+      ]
+    },
+    {
+      "path": "source/_posts/IT_Text/Hexo.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763739481546
+        }
+      ]
+    },
+    {
+      "path": "source/_posts/IT_Text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1763739551247
+        }
+      ]
+    }
+  ]
+}

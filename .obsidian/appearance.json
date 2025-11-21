@@ -1,0 +1,17 @@
+{
+  "cssTheme": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "csz",
+    "myasset"
+  ],
+  "baseFontSize": 22,
+  "accentColor": "",
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "textFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Microsoft YaHei",
+  "showRibbon": true,
+  "showViewHeader": true
+}

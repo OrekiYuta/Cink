@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "fec00ca885cf33d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "60060ebb8d5c22f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf9eec19d61bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/it_text/Hi Cink2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hi Cink2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922bd89ad1d992fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1902c42f1d8a53e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5291576546d72ab5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5feb4898daaf5550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "582ae6d68b3e9718",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "f21249a5bdaff60d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "3d7043797688c778",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b4ba05f76be57a",
+        "type": "tabs",
+        "dimension": 56.036217303822944,
+        "children": [
+          {
+            "id": "e001930228024f89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/it_text/Hi Cink2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hi Cink2"
+            }
+          },
+          {
+            "id": "02b204c3b993f807",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "be9fbd7291bf9907",
+        "type": "tabs",
+        "dimension": 43.963782696177056,
+        "children": [
+          {
+            "id": "0ebbc9f493058f67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/it_text/Hi Cink2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hi Cink2"
+            }
+          },
+          {
+            "id": "661a32add0af1c86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "caf9eec19d61bf0b",
+  "lastOpenFiles": [
+    "themes/ascent/layout/_partial/archive.ejs~",
+    "source/_posts/it_text/Hi Cink3.md~",
+    "source/_posts/it_text/Hi Cink3.md",
+    "source/_posts/it_text/Hi Cink.md",
+    "source/_posts/it_text/Hi Cink2.md",
+    "source/about.md~",
+    "source/_posts/it_text",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md",
+    "themes/ascent/source/css/style.css~",
+    "_config.yml~",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (14).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (13).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (12).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (11).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (10).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (9).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (8).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (7).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (6).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (5).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (4).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (3).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (2).md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本.md",
+    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md~",
+    "themes/ascent/layout/_partial/footer.ejs~",
+    "public/index.html~",
+    "themes/ascent/_config.yml~",
+    "themes/ascent/source/cink.svg",
+    "source/about.md",
+    "source/_posts/about.md",
+    "source/images/arm-vnc.jpg",
+    "source/images/flash-tf.jpg",
+    "source/images/uefi.jpg",
+    "source/images/otg.jpg",
+    "source/images/rk-windows-status.jpg",
+    "source/images/esxi-loaded.jpg",
+    "source/images/esxi-arm-installed.jpg",
+    "source/images/esxi-errors.jpg",
+    "source/images/esxi-loader.jpg",
+    "source/_posts/nonit_linkonly/哔哩哔哩 (゜-゜)つロ 干杯~-bilibili.md",
+    "source/_posts/nonit_linkonly",
+    "source/_posts/IT_Text/小米路由器 BE3600 Pro 笔记：初步分析、折腾路由 Docker（一）.md",
+    "source/_posts/IT_Text/Hexo.md",
+    "source/_posts/IT_Text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md",
+    "source/_posts/a.md",
+    "未命名.canvas",
+    "0 - Stack/A - Draft_Folder/未命名.canvas"
+  ]
+}

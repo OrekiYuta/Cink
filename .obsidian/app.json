@@ -1,0 +1,29 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "source/images",
+  "newLinkFormat": "relative",
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "spellcheck": true,
+  "showInlineTitle": false,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "autoConvertHtml": true,
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": null
+}

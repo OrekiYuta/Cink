@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "fec00ca885cf33d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d3d0f96e32b233",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.3 Daily-Report/2022-11-02-星期三.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922bd89ad1d992fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a00010cea5a1b3b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026b2f2888eb6284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f21249a5bdaff60d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SonarQube",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97bda8cdc4d09a83",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f89937671c30a3fb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "3d7043797688c778",
+    "type": "split",
+    "children": [
+      {
+        "id": "459c778e0646c62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d888d7cd271d4ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.3 Daily-Report/2022-11-02-星期三.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8329a4ea862cd75f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.3 Daily-Report/2022-11-02-星期三.md"
+              }
+            }
+          },
+          {
+            "id": "5feb4898daaf5550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0b3e3dc7a82693c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.3 Daily-Report/2022-11-02-星期三.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7501cf564fae5267",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "active": "16d3d0f96e32b233",
+  "lastOpenFiles": [
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.3 Daily-Report/2022-11-02-星期三.md",
+    "0 - Stack/0.1 - To Do Overview.md",
+    "A - Queue/2022-11-01-星期二.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-4 Dev-Config/【配置相关】 empf-cas-mpfa-common.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-4 Dev-Config/【Teams】群重要消息记录.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-1 Dev-Flow/（1）.【开发流程和必做事项】PCCW-MPFA-empf API.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-3 Dev-Code/Only the sign of the result should be examined.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-3 Dev-Code/Push remote failed in IDEA,SourceTree.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-1 Dev-Flow/（10）.Jenkins-Sonarqube 排查问题.md",
+    "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.1 Conf_Basic-Matters/【常用软件】.md"
+  ]
+}

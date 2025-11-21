@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "【PCCW】账号配置",
+      "path": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.1 Conf_Basic-Matters/【PCCW】账号配置.md"
+    },
+    {
+      "type": "file",
+      "title": "PCCW 工作对话术语收集",
+      "path": "D - Note_Read/记录-对话术语/【PCCW】 工作对话术语收集.md"
+    },
+    {
+      "type": "file",
+      "title": "基础多方平台",
+      "path": "R - Elias'0x24s/服务平台配置信息/基础多方平台.md"
+    },
+    {
+      "type": "file",
+      "title": "【Teams】群重要消息记录",
+      "path": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-4 Dev-Config/【Teams】群重要消息记录.md"
+    },
+    {
+      "type": "file",
+      "title": "【配置相关】 empf-cas-mpfa-common",
+      "path": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-4 Dev-Config/【配置相关】 empf-cas-mpfa-common.md"
+    },
+    {
+      "type": "file",
+      "title": "【temp】项目开发问题截图暂存",
+      "path": "B - Note_Item/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-3 Dev-Code/【temp】项目开发问题截图暂存.md"
+    },
+    {
+      "type": "file",
+      "title": "日常邮件对话-常用缩写",
+      "path": "D - Note_Read/记录-英文随手记/日常邮件对话-常用缩写.md"
+    },
+    {
+      "type": "file",
+      "title": "VMware-Nas 机器",
+      "path": "R - Elias_0x24s/服务平台配置信息/VMware-NAS 机器.md"
+    },
+    {
+      "type": "file",
+      "title": "【Teams】群重要消息记录",
+      "path": "B - Note_Teams/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.5-4 Dev-Config/【Teams】群重要消息记录.md"
+    },
+    {
+      "type": "file",
+      "title": "【PCCW】账号配置",
+      "path": "B - Note_Teams/B-2-PCCW-eMPF-MPFA-Portal=2022.09.19~now/B-2.1 Basic-Conf/【PCCW-eMPF-MPFA】账号配置.md"
+    },
+    {
+      "type": "file",
+      "title": "基础多方平台",
+      "path": "R - Elias_0x24s/服务平台配置信息/基础多方平台.md"
+    },
+    {
+      "type": "file",
+      "title": "RoadMap",
+      "path": "C - Note_Dev/RoadMap.md"
+    },
+    {
+      "type": "file",
+      "title": "Java 面试知识合集",
+      "path": "C - Note_Dev/C-09-Interview/Java 面试知识合集.md"
+    }
+  ]
+}
