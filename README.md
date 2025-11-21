@@ -1,7 +1,3 @@
----
-title: ""
----
-
 # What is Cink?
 
 **Cink** (*Capture / Comment / Context → Index → Think*) is an automated knowledge-capturing system that transforms your
