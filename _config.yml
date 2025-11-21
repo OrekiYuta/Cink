@@ -104,6 +104,6 @@ deploy:
   type: git
   repo: https://github.com/OrekiYuta/Cink.git
   branch: master
-  message: "ci(hexo): auto deploy to GitHub - {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "ci(hexo): auto deploy to GitHub - {{ now(\"YYYY-MM-DD HH:mm:ss\") }}"
 
 # npm install hexo-deployer-git --save
