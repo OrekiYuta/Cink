@@ -101,4 +101,9 @@ theme: ascent
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/OrekiYuta/Cink.git
+  branch: master
+  message: "ci: auto deploy to GitHub - {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+# npm install hexo-deployer-git --save
