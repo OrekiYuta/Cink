@@ -6,8 +6,6 @@ reading into a living, searchable, and deployable knowledge base.
 It automatically stores everything you read, versions your notes, and deploys them as a website — all with minimal
 manual effort.
 
----
-
 ## Architecture
 
 High-level architecture diagram:
@@ -20,8 +18,6 @@ High-level architecture diagram:
 3. **[Manual]** Save the processed content into local Markdown files
 4. **[Auto]** Local Git repository automatically commits and pushes changes to GitHub
 5. **[Auto]** Vercel detects repository updates and deploys them as a website
-
----
 
 ## Benefits
 
