@@ -25,5 +25,7 @@
   "rightToLeft": false,
   "autoConvertHtml": true,
   "useMarkdownLinks": true,
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "foldHeading": true,
+  "showIndentGuide": true
 }

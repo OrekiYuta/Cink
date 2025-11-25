@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "60060ebb8d5c22f4",
+        "id": "75b8f0649ff104b0",
         "type": "tabs",
         "children": [
           {
-            "id": "caf9eec19d61bf0b",
+            "id": "cdec4340b8ecb33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/Hi Cink2.md",
+                "file": "source/_posts/it_text/Hi Cink.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hi Cink2"
+              "title": "Hi Cink"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/Hi Cink2.md",
+                "file": "IT Text/10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hi Cink2"
+              "title": "Outline of 10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人"
             }
           },
           {
@@ -131,10 +131,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "be9fbd7291bf9907",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/it_text/Hi Cink2.md",
+                "file": "source/_posts/it_text/Hi Cink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hi Cink2"
+              "title": "Hi Cink 的反向链接列表"
             }
           },
           {
@@ -181,15 +182,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "homepage:Open homepage": false,
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "caf9eec19d61bf0b",
+  "active": "02b204c3b993f807",
   "lastOpenFiles": [
+    "source/_posts/it_text/Hi Cink.md",
+    "source/_posts/it_text/Hi Cink3.md",
+    "source/_posts/it_text/Hi Cink2.md",
+    "themes/ascent/source/cink.png",
     "source/README.md",
     "db.json",
     "public/cink.svg",
@@ -213,9 +220,6 @@
     "node_modules/hexo-deployer-git/node_modules/readdirp/README.md",
     "node_modules/hexo-deployer-git/node_modules/dom-serializer/README.md",
     "README.md",
-    "source/_posts/it_text/Hi Cink3.md",
-    "source/_posts/it_text/Hi Cink.md",
-    "source/_posts/it_text/Hi Cink2.md",
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md",
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (14).md",
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (13).md",
@@ -226,7 +230,6 @@
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (8).md",
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (7).md",
     "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (6).md",
-    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (5).md",
     "themes/ascent/source/cink.svg",
     "source/images/arm-vnc.jpg",
     "source/images/flash-tf.jpg",
@@ -235,7 +238,6 @@
     "source/images/rk-windows-status.jpg",
     "source/images/esxi-loaded.jpg",
     "source/images/esxi-arm-installed.jpg",
-    "source/images/esxi-errors.jpg",
     "未命名.canvas",
     "0 - Stack/A - Draft_Folder/未命名.canvas"
   ]
