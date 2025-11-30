@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "75b8f0649ff104b0",
+        "id": "e4cd3c1de86d66b9",
         "type": "tabs",
         "children": [
           {
-            "id": "cdec4340b8ecb33c",
+            "id": "858abe18c295dfac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "source/_posts/it_text/Hi Cink.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -131,11 +131,10 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "be9fbd7291bf9907",
@@ -148,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/it_text/Hi Cink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hi Cink 的反向链接列表"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,20 +176,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
       "homepage:Open homepage": false,
-      "canvas:新建白板": false,
-      "graph:查看关系图谱": false
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "02b204c3b993f807",
+  "active": "858abe18c295dfac",
   "lastOpenFiles": [
     "source/_posts/it_text/Hi Cink.md",
     "source/_posts/it_text/Hi Cink3.md",
