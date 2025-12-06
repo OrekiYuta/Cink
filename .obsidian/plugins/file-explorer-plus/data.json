@@ -67,6 +67,20 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "themes",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "cmd",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "source/assets",
+        "patternType": "WILDCARD"
       }
     ],
     "frontMatter": [
