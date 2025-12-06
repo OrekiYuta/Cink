@@ -6,17 +6,22 @@
         "type": "split",
         "children": [
           {
-            "id": "08eef801fcbcc128",
+            "id": "edd3bfe3b180ab1d",
             "type": "tabs",
             "children": [
               {
-                "id": "ac839432ebb2a914",
+                "id": "3d7e3a31908367c0",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "source/_posts/it_text/Hi Cink.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "Hi Cink"
                 }
               }
             ]
@@ -185,8 +190,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "5291576546d72ab5",
-      "mtime": "2025-11-21T23:43:18+08:00"
+      "active": "3d7e3a31908367c0",
+      "mtime": "2025-12-06T16:13:33+08:00"
     }
   },
   "active": "cink"
