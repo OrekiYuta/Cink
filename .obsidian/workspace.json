@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9bade3c6d5a9bc",
+        "id": "26223adba4068b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "63fd12308c2c0110",
+            "id": "28313e9cfde01731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63fd12308c2c0110",
+  "active": "28313e9cfde01731",
   "lastOpenFiles": [
-    "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一）.md",
+    "themes/ascent/_config.yml~",
+    "source/about/index.md~",
     "source/_posts/it_text/Hi Cink.md",
+    "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一）.md",
     "source/images/get-ua.jpg",
     "source/images/query-items.jpg",
     "source/images/pick-selector.jpg",
@@ -213,7 +215,6 @@
     "public/tags/it/index.html",
     "public/categories/it/index.html",
     "public/archives/2025/11",
-    "public/archives/2025/index.html",
     "public/README.md",
     "source/about.md",
     "source/about/index.md",

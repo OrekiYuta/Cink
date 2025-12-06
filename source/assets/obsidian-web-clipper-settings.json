@@ -72,7 +72,7 @@
     "themeMode": "auto"
   },
   "stats": {
-    "addToObsidian": 57,
+    "addToObsidian": 59,
     "copyToClipboard": 0,
     "saveFile": 1,
     "share": 0
@@ -129,16 +129,16 @@
         "type": "text"
       },
       {
-        "id": "17636604711390u8yjrtxv",
-        "name": "tags",
-        "value": "it",
-        "type": "multitext"
-      },
-      {
         "id": "17636569398116r88qucfy",
         "name": "category",
         "value": "it",
         "type": "text"
+      },
+      {
+        "id": "17636604711390u8yjrtxv",
+        "name": "tags",
+        "value": "it",
+        "type": "multitext"
       }
     ],
     "triggers": [],
@@ -193,16 +193,16 @@
         "type": "text"
       },
       {
-        "id": "17636593391530qn49fp",
-        "name": "tags",
-        "value": "non-it",
-        "type": "multitext"
-      },
-      {
         "id": "17636605103668qo2iu83n",
         "name": "category",
         "value": "non-it",
         "type": "text"
+      },
+      {
+        "id": "17636593391530qn49fp",
+        "name": "tags",
+        "value": "non-it",
+        "type": "multitext"
       }
     ],
     "triggers": [],
@@ -261,16 +261,16 @@
         "type": "text"
       },
       {
-        "id": "1763659345544r6yvc7j",
-        "name": "tags",
-        "value": "non-it",
-        "type": "multitext"
-      },
-      {
         "id": "1763660493698hpuxcz554",
         "name": "category",
         "value": "non-it",
         "type": "text"
+      },
+      {
+        "id": "1763659345544r6yvc7j",
+        "name": "tags",
+        "value": "non-it",
+        "type": "multitext"
       }
     ],
     "triggers": [],
@@ -329,16 +329,16 @@
         "type": "text"
       },
       {
-        "id": "1763659348636umqntn1",
-        "name": "tags",
-        "value": "it",
-        "type": "multitext"
-      },
-      {
         "id": "1763660484628kp17r9hfp",
         "name": "category",
         "value": "it",
         "type": "text"
+      },
+      {
+        "id": "1763659348636umqntn1",
+        "name": "tags",
+        "value": "it",
+        "type": "multitext"
       }
     ],
     "triggers": [],
