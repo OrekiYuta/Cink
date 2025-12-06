@@ -11,15 +11,10 @@
             "id": "ed0e7b05b901bc1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "about"
+              "title": "New tab"
             }
           }
         ]
@@ -190,6 +185,7 @@
   },
   "active": "ed0e7b05b901bc1e",
   "lastOpenFiles": [
+    "source/about.md",
     "public/about/index.html",
     "public/about",
     "source/about/index.md",
@@ -204,7 +200,6 @@
     "public/2025/11/21/it_text/Hi Cink/index.html",
     "public/2025/11/21/it_text/Hi Cink",
     "public/2025/11/21/it_text",
-    "public/2025/11/21",
     "public/assets/cink-public 2025-11-22-06.45.27.excalidraw.svg",
     "public/cink.svg",
     "source/_posts/it_text/Hi Cink.md",
