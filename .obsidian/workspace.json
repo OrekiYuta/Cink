@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "edd3bfe3b180ab1d",
+        "id": "75f81691d7dfdb2d",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7e3a31908367c0",
+            "id": "3650dbb470236597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/Hi Cink.md",
+                "file": "source/_posts/it_linkonly/AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hi Cink"
+              "title": "AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -103,7 +103,7 @@
       {
         "id": "08b4ba05f76be57a",
         "type": "tabs",
-        "dimension": 56.036217303822944,
+        "dimension": 66.60212971926428,
         "children": [
           {
             "id": "e001930228024f89",
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Text/10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人.md",
+                "file": "source/_posts/it_linkonly/AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人"
+              "title": "Outline of AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派"
             }
           },
           {
@@ -133,13 +133,25 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "928aee62c760f7f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for The new identity of a developer What changes and what doesn’t in the AI era"
+            }
           }
         ]
       },
       {
         "id": "be9fbd7291bf9907",
         "type": "tabs",
-        "dimension": 43.963782696177056,
+        "dimension": 33.39787028073572,
         "children": [
           {
             "id": "0ebbc9f493058f67",
@@ -147,7 +159,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -156,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The new identity of a developer What changes and what doesn’t in the AI era"
             }
           },
           {
@@ -165,19 +178,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/it_linkonly/AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,35 +199,46 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "cmdr:Download attachments for current file": false
     }
   },
-  "active": "3d7e3a31908367c0",
+  "active": "3650dbb470236597",
   "lastOpenFiles": [
+    "source/_posts/it_text/I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff.md",
+    "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
+    "node_modules/hexo-util/README.md",
+    "node_modules/jsdom/node_modules/function-bind/README.md",
+    "node_modules/hexo-cli/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
+    "source/_posts/nonit_text/我总是担心有没有通过别人的考验  风平浪静的闲暇.md",
+    "source/images/skinnerbox.png",
+    "source/images/support.png",
+    "source/images/URL.png",
+    "source/_posts/nonit_text",
+    "source/images/googletrick.png",
+    "source/images/postsper.png",
+    "source/images/middleman.png",
+    "source/images/relevancy.png",
+    "source/images/banner.png",
+    "source/_posts/it_linkonly/AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派.md",
+    "source/_posts/it_text/Eirini Kalliamvakou.md",
+    "source/images/ai-fluency-stages-3-4.png",
+    "source/images/ai-fluency-stages-1-2.png",
+    "source/_posts/it_text/Build your own newsfeed.md",
     "source/_posts/it_text/Hi Cink.md",
+    "source/_posts/it_linkonly",
+    "source/_posts/it_text/AI 算不算一种研究方法？ - 少数派, AI 算不算一种研究方法？ - 少数派.md",
     "themes/ascent/_config.yml~",
     "source/about/index.md~",
     "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一）.md",
-    "source/images/get-ua.jpg",
-    "source/images/query-items.jpg",
-    "source/images/pick-selector.jpg",
-    "source/images/select-dom-element.jpg",
-    "source/images/reeder-with-36kr.jpg",
-    "source/images/reeder-add-feed.jpg",
-    "source/images/news-list.jpg",
-    "source/images/project-potted.jpg",
     "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一） 1.md",
     "source/_posts/it_text/A GitHub Action for Importing Blue Sky RSS Feeds.md",
     "db.json",
     "source/assets/obsidian-web-clipper-settings.json",
-    "source/images/Image 2.png",
-    "source/images/Image 1.png",
     "public/2025/11/21/it_text/Hi Cink/index.html",
     "public/2025/11/21/it_text/Hi Cink",
     "public/archives/2025/11/index.html",
     "public/2025/11/21/it_text",
-    "public/tags/it/index.html",
-    "public/categories/it/index.html",
     "public/README.md",
     "source/about.md",
     "source/about/index.md",
@@ -226,15 +251,6 @@
     "node_modules/hexo-deployer-git/node_modules/hexo-util/node_modules/htmlparser2/README.md",
     "node_modules/hexo-deployer-git/node_modules/hexo-fs/README.md",
     "node_modules/hexo-deployer-git/node_modules/chokidar/README.md",
-    "node_modules/hexo-deployer-git/node_modules/domutils/readme.md",
-    "node_modules/hexo-deployer-git/node_modules/dom-serializer/node_modules/entities/readme.md",
-    "node_modules/hexo-deployer-git/node_modules/domhandler/readme.md",
-    "node_modules/hexo-deployer-git/node_modules/readdirp/README.md",
-    "node_modules/hexo-deployer-git/node_modules/dom-serializer/README.md",
-    "README.md",
-    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化.md",
-    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (14).md",
-    "source/_posts/it_text/基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化 - 副本 (13).md",
     "未命名.canvas",
     "0 - Stack/A - Draft_Folder/未命名.canvas"
   ]

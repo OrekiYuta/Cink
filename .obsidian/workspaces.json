@@ -6,22 +6,22 @@
         "type": "split",
         "children": [
           {
-            "id": "edd3bfe3b180ab1d",
+            "id": "75f81691d7dfdb2d",
             "type": "tabs",
             "children": [
               {
-                "id": "3d7e3a31908367c0",
+                "id": "3650dbb470236597",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "source/_posts/it_text/Hi Cink.md",
+                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hi Cink"
+                  "title": "The new identity of a developer What changes and what doesn’t in the AI era"
                 }
               }
             ]
@@ -44,7 +44,7 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": false
+                    "autoReveal": true
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -105,7 +105,7 @@
           {
             "id": "08b4ba05f76be57a",
             "type": "tabs",
-            "dimension": 56.036217303822944,
+            "dimension": 66.60212971926428,
             "children": [
               {
                 "id": "e001930228024f89",
@@ -113,13 +113,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "IT Text/10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人.md",
+                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人"
+                  "title": "Outline of The new identity of a developer What changes and what doesn’t in the AI era"
                 }
               },
               {
@@ -135,13 +135,25 @@
                   "icon": "lucide-archive",
                   "title": "All properties"
                 }
+              },
+              {
+                "id": "928aee62c760f7f4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for The new identity of a developer What changes and what doesn’t in the AI era"
+                }
               }
             ]
           },
           {
             "id": "be9fbd7291bf9907",
             "type": "tabs",
-            "dimension": 43.963782696177056,
+            "dimension": 33.39787028073572,
             "children": [
               {
                 "id": "0ebbc9f493058f67",
@@ -149,7 +161,8 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "collapseAll": false,
+                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
+                    "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
@@ -158,7 +171,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks"
+                  "title": "Backlinks for The new identity of a developer What changes and what doesn’t in the AI era"
                 }
               },
               {
@@ -167,19 +180,20 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links"
+                  "title": "Outgoing links from The new identity of a developer What changes and what doesn’t in the AI era"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 311.5,
-        "collapsed": true
+        "width": 311.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -187,11 +201,12 @@
           "switcher:Open quick switcher": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "cmdr:Download attachments for current file": false
         }
       },
-      "active": "3d7e3a31908367c0",
-      "mtime": "2025-12-06T16:13:33+08:00"
+      "active": "5291576546d72ab5",
+      "mtime": "2025-12-10T23:16:23+08:00"
     }
   },
   "active": "cink"
