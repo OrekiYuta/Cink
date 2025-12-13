@@ -6,22 +6,17 @@
         "type": "split",
         "children": [
           {
-            "id": "75f81691d7dfdb2d",
+            "id": "00fbbb6d3118078f",
             "type": "tabs",
             "children": [
               {
-                "id": "3650dbb470236597",
+                "id": "5eae9f441196f1bc",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "The new identity of a developer What changes and what doesn’t in the AI era"
+                  "title": "New tab"
                 }
               }
             ]
@@ -113,13 +108,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of The new identity of a developer What changes and what doesn’t in the AI era"
+                  "title": "Outline"
                 }
               },
               {
@@ -180,12 +174,11 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from The new identity of a developer What changes and what doesn’t in the AI era"
+                  "title": "Outgoing links"
                 }
               }
             ],
@@ -205,8 +198,8 @@
           "cmdr:Download attachments for current file": false
         }
       },
-      "active": "5291576546d72ab5",
-      "mtime": "2025-12-10T23:16:23+08:00"
+      "active": "5eae9f441196f1bc",
+      "mtime": "2025-12-13T23:00:30+08:00"
     }
   },
   "active": "cink"
