@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb918a6738f7965",
+        "id": "0c9689dbe9361659",
         "type": "tabs",
         "children": [
           {
-            "id": "edae6f69651c2baa",
+            "id": "54bd5ad47cc13e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_linkonly/Developers can now submit apps to ChatGPT.md",
+                "file": "source/_posts/it_text/AI agents are starting to eat SaaS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Developers can now submit apps to ChatGPT"
+              "title": "AI agents are starting to eat SaaS"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_linkonly/Developers can now submit apps to ChatGPT.md",
+                "file": "source/_posts/it_text/AI agents are starting to eat SaaS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Developers can now submit apps to ChatGPT"
+              "title": "Outline of AI agents are starting to eat SaaS"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_linkonly/Developers can now submit apps to ChatGPT.md",
+                "file": "source/_posts/it_text/AI agents are starting to eat SaaS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Developers can now submit apps to ChatGPT"
+              "title": "Outgoing links from AI agents are starting to eat SaaS"
             }
           }
         ],
@@ -203,10 +203,12 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "edae6f69651c2baa",
+  "active": "54bd5ad47cc13e15",
   "lastOpenFiles": [
-    "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
+    "source/_posts/nonit_linkonly/“蓝牙”名称的由来是什么？.md",
+    "source/_posts/it_text/AI agents are starting to eat SaaS.md",
     "source/_posts/it_linkonly/Developers can now submit apps to ChatGPT.md",
+    "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
     "source/_posts/nonit_linkonly/哪怕是一分一秒能睡就要睡｜往这边看 向井君.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text/如果你总是忍不住和别人比较｜大愚和尚.md",
@@ -244,8 +246,6 @@
     "themes/ascent/_config.yml~",
     "source/about/index.md~",
     "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一）.md",
-    "source/_posts/it_text/RSS Can：使用 Golang 实现更好的 RSS Hub 服务（一） 1.md",
-    "source/_posts/it_text/A GitHub Action for Importing Blue Sky RSS Feeds.md",
     "db.json",
     "source/assets/obsidian-web-clipper-settings.json",
     "public/2025/11/21/it_text/Hi Cink/index.html",
