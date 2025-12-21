@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4fda206d3ec8d4",
+        "id": "fb173fdd64034fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "0916e5e45cd91e63",
+            "id": "abf0ea590c271293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/为什么光是活着就这么累  只有爱能让我生存.md",
+                "file": "source/_posts/it_text/Construction is Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "为什么光是活着就这么累  只有爱能让我生存"
+              "title": "Construction is Life"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 294.5
   },
   "right": {
     "id": "3d7043797688c778",
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/为什么光是活着就这么累  只有爱能让我生存.md",
+                "file": "source/_posts/it_text/Construction is Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 为什么光是活着就这么累  只有爱能让我生存"
+              "title": "Outline of Construction is Life"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/为什么光是活着就这么累  只有爱能让我生存.md",
+                "file": "source/_posts/it_text/Construction is Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 为什么光是活着就这么累  只有爱能让我生存"
+              "title": "Outgoing links from Construction is Life"
             }
           }
         ],
@@ -203,8 +203,11 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "0916e5e45cd91e63",
+  "active": "abf0ea590c271293",
   "lastOpenFiles": [
+    "source/_posts/nonit_text/人类就是不断后悔的生物  你教会了我什么最重要.md",
+    "source/_posts/it_text/Construction is Life.md",
+    "source/_posts/nonit_text/人生最应该拥有的就是被讨厌的勇气  被讨厌的勇气.md",
     "source/_posts/it_text/为什么光是活着就这么累  只有爱能让我生存.md",
     "source/_posts/it_text/AI agents are starting to eat SaaS.md",
     "source/_posts/it_text/I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff.md",
@@ -221,7 +224,6 @@
     "source/images/1634896178-what-is-green-software-asim-hussain-green-software-foundation1.png",
     "source/images/image1_c8a727.png",
     "source/_posts/nonit_text/今天！活在今天！明日不过空有其名！  《泡影记》森鸥外.md",
-    "source/_posts/nonit_text/人生最应该拥有的就是被讨厌的勇气  被讨厌的勇气.md",
     "source/_posts/nonit_text/我总是担心有没有通过别人的考验  风平浪静的闲暇.md",
     "source/_posts/nonit_text/Why speed matters.md",
     "source/_posts/it_linkonly/Sam Altman’s Dirty DRAM Deal.md",
@@ -241,8 +243,6 @@
     "source/images/middleman.png",
     "source/images/relevancy.png",
     "source/_posts/it_text/Eirini Kalliamvakou.md",
-    "source/_posts/it_text/Build your own newsfeed.md",
-    "source/_posts/it_text/Hi Cink.md",
     "source/_posts/it_linkonly",
     "themes/ascent/_config.yml~",
     "source/about/index.md~",
