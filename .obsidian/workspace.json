@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb173fdd64034fc9",
+        "id": "1c75570547b58590",
         "type": "tabs",
         "children": [
           {
-            "id": "abf0ea590c271293",
+            "id": "469fd1e916a0ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/Construction is Life.md",
+                "file": "source/_posts/it_text/GraphQL the enterprise honeymoon is over.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Construction is Life"
+              "title": "GraphQL the enterprise honeymoon is over"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/Construction is Life.md",
+                "file": "source/_posts/it_text/GraphQL the enterprise honeymoon is over.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Construction is Life"
+              "title": "Outline of GraphQL the enterprise honeymoon is over"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/Construction is Life.md",
+                "file": "source/_posts/it_text/GraphQL the enterprise honeymoon is over.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Construction is Life"
+              "title": "Outgoing links from GraphQL the enterprise honeymoon is over"
             }
           }
         ],
@@ -203,12 +203,17 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "abf0ea590c271293",
+  "active": "469fd1e916a0ff6e",
   "lastOpenFiles": [
-    "source/_posts/nonit_text/人类就是不断后悔的生物  你教会了我什么最重要.md",
+    "source/_posts/nonit_linkonly/在意别人的目光，就像被无形的枷锁束缚着  嘲笑的淑女.md",
+    "source/_posts/it_text/GraphQL the enterprise honeymoon is over.md",
+    "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
+    "source/_posts/nonit_linkonly/为什么光是活着就这么累  只有爱能让我生存.md",
+    "source/_posts/nonit_text/如果你总是忍不住和别人比较｜大愚和尚.md",
+    "source/_posts/it_text/在意别人的目光，就像被无形的枷锁束缚着  嘲笑的淑女.md",
     "source/_posts/it_text/Construction is Life.md",
+    "source/_posts/nonit_text/人类就是不断后悔的生物  你教会了我什么最重要.md",
     "source/_posts/nonit_text/人生最应该拥有的就是被讨厌的勇气  被讨厌的勇气.md",
-    "source/_posts/it_text/为什么光是活着就这么累  只有爱能让我生存.md",
     "source/_posts/it_text/AI agents are starting to eat SaaS.md",
     "source/_posts/it_text/I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff.md",
     "source/_posts/it_text/The future of AI-powered software optimization (and how it can help your team).md",
@@ -217,10 +222,8 @@
     "source/_posts/it_text/Why Software Is Eating the World.md",
     "source/_posts/nonit_linkonly/“蓝牙”名称的由来是什么？.md",
     "source/_posts/it_linkonly/Developers can now submit apps to ChatGPT.md",
-    "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
     "source/_posts/nonit_linkonly/哪怕是一分一秒能睡就要睡｜往这边看 向井君.md",
     "source/_posts/nonit_linkonly",
-    "source/_posts/nonit_text/如果你总是忍不住和别人比较｜大愚和尚.md",
     "source/images/1634896178-what-is-green-software-asim-hussain-green-software-foundation1.png",
     "source/images/image1_c8a727.png",
     "source/_posts/nonit_text/今天！活在今天！明日不过空有其名！  《泡影记》森鸥外.md",
@@ -232,8 +235,6 @@
     "source/images/Capture-decran-le-2025-12-06-a-14.08.31-825x510.png",
     "source/_posts/it_text/Why speed matters.md",
     "node_modules/hexo-util/README.md",
-    "node_modules/jsdom/node_modules/function-bind/README.md",
-    "node_modules/hexo-cli/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
     "source/images/skinnerbox.png",
     "source/images/support.png",
     "source/images/URL.png",
@@ -242,7 +243,6 @@
     "source/images/postsper.png",
     "source/images/middleman.png",
     "source/images/relevancy.png",
-    "source/_posts/it_text/Eirini Kalliamvakou.md",
     "source/_posts/it_linkonly",
     "themes/ascent/_config.yml~",
     "source/about/index.md~",
