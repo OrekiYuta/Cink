@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>GraphQL: the enterprise honeymoon is over | Cink</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  
+    <link rel="icon" href="/cink.png">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/css/highlight.css">
+
+  
+  <meta name="description" content="A production-tested take on GraphQL in enterprise systems, why the honeymoon phase fades, and when its complexity outweighs the benefits.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="GraphQL: the enterprise honeymoon is over">
+<meta property="og:url" content="http://example.com/2025/12/22/it_text/GraphQL%20the%20enterprise%20honeymoon%20is%20over/index.html">
+<meta property="og:site_name" content="Cink">
+<meta property="og:description" content="A production-tested take on GraphQL in enterprise systems, why the honeymoon phase fades, and when its complexity outweighs the benefits.">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-12-22T15:24:50.560Z">
+<meta property="article:modified_time" content="2025-12-22T07:26:47.000Z">
+<meta property="article:author" content="Orekiyuta">
+<meta property="article:tag" content="it">
+<meta name="twitter:card" content="summary"><meta name="generator" content="Hexo 8.1.1"></head>
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+  <h1 id="title">
+    <a href="/">Cink</a>
+  </h1>
+  <nav>
+    
+    
+      
+      <a class="nav-link" href="/">Home</a>
+    
+      
+        <span class="nav-spacer">×</span>
+      
+      <a class="nav-link" href="/archives">Archives</a>
+    
+      
+        <span class="nav-spacer">×</span>
+      
+      <a class="nav-link" href="/about">About</a>
+    
+    
+  </nav>
+</header>
+
+    <div id="content">
+      <article id="post-it_text/GraphQL the enterprise honeymoon is over" class="article article-type-post" itemprop="blogPost" itemscope>
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h2 class="article-title" itemprop="headline name">
+      GraphQL: the enterprise honeymoon is over
+    </h2>
+  
+
+
+        <div class="article-meta">
+          <time class="article-date" datetime="2025-12-22T15:24:50.560Z"
+      itemprop="datePublished">December 22, 2025, 11:24 PM</time>
+
+          
+        </div>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+        <blockquote>
+<p>[!NOTE]<br>GraphQL solves a real problem, but that problem is far more niche than people admit.<br>Most frontend and full-stack developers are far more experienced with REST than GraphQL.<br>REST is boring, but boring scales extremely well.<br>GraphQL isn’t bad. It’s just niche. And you probably don’t need it.</p>
+</blockquote>
+<blockquote>
+<p>[!TIP] Source link: <a target="_blank" rel="noopener" href="https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over">GraphQL: the enterprise honeymoon is over</a></p>
+</blockquote>
+<span id="more"></span>
+
+<br>
+
+<hr>
+<br>
+<br>
+
+<p>I’ve used GraphQL, specifically Apollo Client and Server, for a couple of years in a real enterprise-grade application.</p>
+<p>Not a toy app. Not a greenfield startup. A proper production setup with multiple teams, BFFs, downstream services, observability requirements, and real users.</p>
+<p>And after all that time, I’ve come to a pretty boring conclusion:</p>
+<p>GraphQL solves a real problem, but that problem is far more niche than people admit. In most enterprise setups, it’s already solved elsewhere, and when you add up the tradeoffs, GraphQL often ends up being a net negative.</p>
+<p>This isn’t a “GraphQL bad” post. It’s a “GraphQL after the honeymoon” post.</p>
+<h2 id="what-GraphQL-is-supposed-to-solve"><a href="#what-GraphQL-is-supposed-to-solve" class="headerlink" title="what GraphQL is supposed to solve"></a>what GraphQL is supposed to solve</h2><p>The main problem GraphQL tries to solve is overfetching.</p>
+<p>The idea is simple and appealing:</p>
+<ul>
+<li>the client asks for exactly the fields it needs</li>
+<li>no more, no less</li>
+<li>no wasted bytes</li>
+<li>no backend changes for every new UI requirement</li>
+</ul>
+<p>On paper, that’s great. In practice, things are messier.</p>
+<h2 id="overfetching-is-already-solved-by-BFFs"><a href="#overfetching-is-already-solved-by-BFFs" class="headerlink" title="overfetching is already solved by BFFs"></a>overfetching is already solved by BFFs</h2><p>Most enterprise frontend architectures already have a BFF (Backend for Frontend).</p>
+<p>That BFF exists specifically to:</p>
+<ul>
+<li>shape data for the UI</li>
+<li>aggregate multiple downstream calls</li>
+<li>hide backend complexity</li>
+<li>return exactly what the UI needs</li>
+</ul>
+<p>If you’re using REST behind a BFF, overfetching is already solvable. The BFF can scope down responses and return only what the UI cares about.</p>
+<p>Yes, GraphQL can also do this. But here’s the part people gloss over.</p>
+<p>Most downstream services are still REST.</p>
+<p>So now your GraphQL layer still has to overfetch from downstream REST APIs, then reshape the response. You didn’t eliminate overfetching. You just moved it down a layer.</p>
+<p>That alone significantly diminishes GraphQL’s main selling point.</p>
+<p>There is a case where GraphQL wins here. If multiple pages hit the same endpoint but need slightly different fields, GraphQL lets you scope those differences per query.</p>
+<p>But let’s be honest about the trade.</p>
+<p>You’re usually talking about saving a handful of fields per request, in exchange for:</p>
+<ul>
+<li>more setup</li>
+<li>more abstraction</li>
+<li>more indirection</li>
+<li>more code to maintain</li>
+</ul>
+<p>That’s a very expensive trade for a few extra kilobytes.</p>
+<h2 id="implementation-time-is-much-higher-than-REST"><a href="#implementation-time-is-much-higher-than-REST" class="headerlink" title="implementation time is much higher than REST"></a>implementation time is much higher than REST</h2><p>GraphQL takes significantly longer to implement than a REST BFF.</p>
+<p>With REST, you typically:</p>
+<ul>
+<li>call downstream services</li>
+<li>adapt the response</li>
+<li>return what the UI needs</li>
+</ul>
+<p>With GraphQL, you now have to:</p>
+<ul>
+<li>define a schema</li>
+<li>define types</li>
+<li>define resolvers</li>
+<li>define data sources</li>
+<li>write adapter functions anyway</li>
+<li>keep schema, resolvers, and clients in sync</li>
+</ul>
+<p>GraphQL optimizes consumption at the cost of production speed.</p>
+<p>In an enterprise environment, production speed matters more than theoretical elegance.</p>
+<h2 id="observability-is-worse-by-default"><a href="#observability-is-worse-by-default" class="headerlink" title="observability is worse by default"></a>observability is worse by default</h2><p>This one doesn’t get talked about enough.</p>
+<p>GraphQL has this weird status code convention:</p>
+<ul>
+<li>400 if the query can’t be parsed</li>
+<li>200 with an <code>errors</code> array if something failed during execution</li>
+<li>200 if it succeeded or partially succeeded</li>
+<li>500 if the server is unreachable</li>
+</ul>
+<p>From an observability standpoint, this is painful.</p>
+<p>With REST:</p>
+<ul>
+<li>2XX means success</li>
+<li>4XX means client error</li>
+<li>5XX means server error</li>
+</ul>
+<p>If you filter dashboards by 2XX, you know those requests succeeded.</p>
+<p>With GraphQL, a 200 can still mean partial or full failure.</p>
+<p>Yes, Apollo lets you customize this behavior. But that’s kind of the point. You’re constantly paying a tax in extra configuration, extra conventions, and extra mental overhead just to get back to something REST gives you out of the box.</p>
+<p>This matters when you’re on call, not when you’re reading blog posts.</p>
+<h2 id="caching-sounds-amazing-until-you-live-with-it"><a href="#caching-sounds-amazing-until-you-live-with-it" class="headerlink" title="caching sounds amazing until you live with it"></a>caching sounds amazing until you live with it</h2><p>Apollo’s normalized caching is genuinely impressive.</p>
+<p>In theory. In practice, it’s fragile.</p>
+<p>If you have two queries where only one field differs, Apollo treats them as separate queries. You then have to manually wire things so:</p>
+<ul>
+<li>existing fields come from cache</li>
+<li>only the differing field is fetched</li>
+</ul>
+<p>At that point:</p>
+<ul>
+<li>you still have a roundtrip</li>
+<li>you’ve added more code</li>
+<li>debugging cache issues becomes its own problem</li>
+</ul>
+<p>Meanwhile, REST happily overfetches a few extra fields, caches the whole response, and moves on. Extra kilobytes are cheap. Complexity isn’t.</p>
+<h2 id="the-ID-requirement-is-a-leaky-abstraction"><a href="#the-ID-requirement-is-a-leaky-abstraction" class="headerlink" title="the ID requirement is a leaky abstraction"></a>the ID requirement is a leaky abstraction</h2><p>Apollo expects every object to have an <code>id</code> or <code>_id</code> field by default, or you need to configure a custom identifier.</p>
+<p>That assumption does not hold in many enterprise APIs.</p>
+<p>Plenty of APIs:</p>
+<ul>
+<li>don’t return IDs</li>
+<li>don’t have natural unique keys</li>
+<li>aren’t modeled as globally identifiable entities</li>
+</ul>
+<p>So now the BFF has to generate IDs locally just to satisfy the GraphQL client.</p>
+<p>That means:</p>
+<ul>
+<li>more logic</li>
+<li>more fields</li>
+<li>you’re always fetching one extra field anyway</li>
+</ul>
+<p>Which is ironic, considering the original goal was to reduce overfetching.</p>
+<p>REST clients don’t impose this kind of constraint.</p>
+<h2 id="file-uploads-and-downloads-are-awkward"><a href="#file-uploads-and-downloads-are-awkward" class="headerlink" title="file uploads and downloads are awkward"></a>file uploads and downloads are awkward</h2><p>GraphQL is simply not a good fit for binary data.</p>
+<p>In practice, you end up:</p>
+<ul>
+<li>returning a download URL</li>
+<li>then using REST to fetch the file anyway</li>
+</ul>
+<p>Embedding large payloads like PDFs directly in GraphQL responses leads to bloated responses and worse performance.</p>
+<p>This alone breaks the “single API” story.</p>
+<h2 id="onboarding-is-slower"><a href="#onboarding-is-slower" class="headerlink" title="onboarding is slower"></a>onboarding is slower</h2><p>Most frontend and full-stack developers are far more experienced with REST than GraphQL.</p>
+<p>Introducing GraphQL means:</p>
+<ul>
+<li>teaching schemas</li>
+<li>teaching resolvers</li>
+<li>teaching query composition</li>
+<li>teaching caching rules</li>
+<li>teaching error semantics</li>
+</ul>
+<p>That learning curve creates friction, especially when teams need to move fast.</p>
+<p>REST is boring, but boring scales extremely well.</p>
+<h2 id="error-handling-is-harder-than-it-needs-to-be"><a href="#error-handling-is-harder-than-it-needs-to-be" class="headerlink" title="error handling is harder than it needs to be"></a>error handling is harder than it needs to be</h2><p>GraphQL error responses are… weird.</p>
+<p>You have:</p>
+<ul>
+<li>nullable vs non-nullable fields</li>
+<li>partial data</li>
+<li>errors arrays</li>
+<li>extensions with custom status codes</li>
+<li>the need to trace which resolver failed and why</li>
+</ul>
+<p>All of this adds indirection.</p>
+<p>Compare that to a simple REST setup where:</p>
+<ul>
+<li>input validation fails, return a 400</li>
+<li>backend fails, return a 500</li>
+<li>zod error, done</li>
+</ul>
+<p>Simple errors are easier to reason about than elegant ones.</p>
+<h2 id="the-net-result"><a href="#the-net-result" class="headerlink" title="the net result"></a>the net result</h2><p>GraphQL absolutely has valid use cases.</p>
+<p>But in most enterprise environments:</p>
+<ul>
+<li>you already have BFFs</li>
+<li>downstream services are REST</li>
+<li>overfetching is not your biggest problem</li>
+<li>observability, reliability, and speed matter more</li>
+</ul>
+<p>When you add everything up, GraphQL often ends up solving a narrow problem while introducing a broader set of new ones.</p>
+<p>That’s why, after using it in production for years, I’d say this:</p>
+<p>GraphQL isn’t bad. It’s just niche. And you probably don’t need it.</p>
+<p>Especially if your architecture already solved the problem it was designed for.</p>
+
+      
+    </div>
+    
+    
+    <div class="article-category">
+      
+        <b>Categories:</b>
+        <a class="article-category-link" href="/categories/it/">it</a>
+      
+      
+        <br/>
+      
+      
+        <b>Tags:</b>
+        <a class="article-tag-none-link" href="/tags/it/" rel="tag">it</a>
+      
+    </div>
+    
+    
+  </div>
+</article>
+
+  
+<nav id="article-nav" class="article-nav">
+  
+    <span id="article-nav-newer" class="article-nav-link-wrap newer"></span>
+  
+  
+    <a href="/2025/12/22/nonit_linkonly/%E5%9C%A8%E6%84%8F%E5%88%AB%E4%BA%BA%E7%9A%84%E7%9B%AE%E5%85%89%EF%BC%8C%E5%B0%B1%E5%83%8F%E8%A2%AB%E6%97%A0%E5%BD%A2%E7%9A%84%E6%9E%B7%E9%94%81%E6%9D%9F%E7%BC%9A%E7%9D%80%20%20%E5%98%B2%E7%AC%91%E7%9A%84%E6%B7%91%E5%A5%B3/" id="article-nav-older" class="article-nav-link-wrap older">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">
+        
+          在意别人的目光，就像被无形的枷锁束缚着 | 嘲笑的淑女
+        
+      </div>
+    </a>
+  
+</nav>
+
+
+
+
+
+
+    </div>
+  </div>
+  
+
+
+
+
+<div id="settings-container">
+<!--  <div id="dark-mode">dark</div>-->
+<!--  <div id="sans-font">sans</div>-->
+</div>
+<!--<script type="text/javascript">-->
+<!--let d=document,r=d.documentElement.style,f=r.setProperty.bind(r),l=localStorage,s=l.getItem('s')||(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches),n=l.getItem('n'),m=d.getElementById("dark-mode"),b=()=>{f('&#45;&#45;bg-color','#fafafa');f('&#45;&#45;code-bg-color','#f4f4f4');f('&#45;&#45;text-color','#212121');f('&#45;&#45;secondary-color','#808080');f('&#45;&#45;tertiary-color','#b0b0b0');f('&#45;&#45;link-color','#b5c8cf');f('&#45;&#45;link-hover-color','#618794');f('&#45;&#45;link-bg-color','#dae4e7');f('&#45;&#45;selection-color','#dae4e7');m.innerHTML="dark"},c=()=>{f('&#45;&#45;bg-color','#212121');f('&#45;&#45;code-bg-color','#292929');f('&#45;&#45;text-color','#fff');f('&#45;&#45;secondary-color','#c0c0c0');f('&#45;&#45;tertiary-color','#6e6e6e');f('&#45;&#45;link-color','#4d6b75');f('&#45;&#45;link-hover-color','#96b1bb');f('&#45;&#45;link-bg-color','#5d828e');f('&#45;&#45;selection-color','#acc1c9');m.innerHTML="light"},o=d.getElementById("sans-font"),e=()=>{f('&#45;&#45;body-stack','"Lora", "Georgia", "Times New Roman", serif');o.innerHTML="sans"},g=()=>{f('&#45;&#45;body-stack','"Lato", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Verdana", sans-serif');o.innerHTML="serif"};m.onclick=()=>{if(s==2){s=1;l.setItem('s',s);c()}else{s=2;l.setItem('s',s);b()}};o.onclick=()=>{if(n==2){n=1;l.setItem('n',n);g()}else{n=2;l.setItem('n',n);e()}};if(!s){s=2;l.setItem('s',2)};if(s==1){c()};if(!n){n=2;l.setItem('n',2)};if(n==1){g()};-->
+<!--</script>-->
+
+
+
+
+</body>
+</html>
