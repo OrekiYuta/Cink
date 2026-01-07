@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f6113f5fd9090265",
+        "id": "ff76861f1f178f83",
         "type": "tabs",
         "children": [
           {
-            "id": "e1905ae04adb82e1",
+            "id": "71b68e3664c7a1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
+                "file": "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "What is WebAuthn and Why It Matters for Authentication"
+              "title": "好吃的东西始终会是好吃的｜千寻小姐"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
+                "file": "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is WebAuthn and Why It Matters for Authentication"
+              "title": "Outline of 好吃的东西始终会是好吃的｜千寻小姐"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
+                "file": "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What is WebAuthn and Why It Matters for Authentication"
+              "title": "Outgoing links from 好吃的东西始终会是好吃的｜千寻小姐"
             }
           }
         ],
@@ -203,15 +203,16 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "e1905ae04adb82e1",
+  "active": "71b68e3664c7a1d3",
   "lastOpenFiles": [
+    "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
+    "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
     "source/images/best-buy-webauthn.png",
     "source/images/webauthn-browser-support.png",
     "source/images/webauthn-ctap.svg",
     "source/images/webauthn-players.svg",
     "source/images/passkeys-how.png",
     "source/images/what-is-web-authn.png",
-    "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
     "source/_posts/nonit_linkonly/不在圣诞季盛开的圣诞玫瑰.md",
     "source/_posts/it_text/安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派, 安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派.md",
     "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
@@ -241,7 +242,6 @@
     "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
     "source/_posts/nonit_linkonly",
     "source/images/1634896178-what-is-green-software-asim-hussain-green-software-foundation1.png",
-    "source/images/image1_c8a727.png",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
     "themes/ascent/_config.yml~",
