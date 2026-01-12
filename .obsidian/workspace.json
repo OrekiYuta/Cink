@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8edffe95773806e2",
+        "id": "54d2474438615e05",
         "type": "tabs",
         "children": [
           {
-            "id": "ead8daecfe90bbfd",
+            "id": "6bd7f48ff9b4072c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Avoiding Vulnerable Passwords—and Rules, Too"
             }
           }
         ]
@@ -106,12 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Avoiding Vulnerable Passwords—and Rules, Too"
             }
           },
           {
@@ -172,11 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Avoiding Vulnerable Passwords—and Rules, Too"
             }
           }
         ],
@@ -196,8 +203,11 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "ead8daecfe90bbfd",
+  "active": "6bd7f48ff9b4072c",
   "lastOpenFiles": [
+    "source/images/Telepathwords-user-interface.jpg",
+    "source/images/Telepathwords.jpg",
+    "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
     "source/_posts/it_text/This is not the future.md",
     "source/_posts/nonit_linkonly/我担心高兴过后只剩难过  周日晚上左右.md",
     "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
@@ -212,7 +222,6 @@
     "source/images/webauthn-browser-support.png",
     "source/images/webauthn-ctap.svg",
     "source/images/webauthn-players.svg",
-    "source/images/passkeys-how.png",
     "source/_posts/nonit_linkonly/不在圣诞季盛开的圣诞玫瑰.md",
     "source/_posts/it_text/安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派, 安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派.md",
     "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
@@ -232,8 +241,6 @@
     "source/_posts/nonit_text/如果你总是忍不住和别人比较｜大愚和尚.md",
     "source/_posts/it_text/在意别人的目光，就像被无形的枷锁束缚着  嘲笑的淑女.md",
     "source/_posts/it_text/Construction is Life.md",
-    "source/_posts/nonit_text/人类就是不断后悔的生物  你教会了我什么最重要.md",
-    "source/_posts/nonit_text/人生最应该拥有的就是被讨厌的勇气  被讨厌的勇气.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
