@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Avoiding Vulnerable Passwords—and Rules, Too | Cink</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  
+    <link rel="icon" href="/cink.png">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/css/highlight.css">
+
+  
+  <meta name="description" content="You could think of it as a brainteaser: Create a sequence of eight or more characters that includes at least one uppercase letter, one lowercase letter, a digit, and a symbol, that doesn’t contain any">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Avoiding Vulnerable Passwords—and Rules, Too">
+<meta property="og:url" content="http://example.com/2026/01/12/it_text/Avoiding%20Vulnerable%20Passwords%E2%80%94and%20Rules,%20Too/index.html">
+<meta property="og:site_name" content="Cink">
+<meta property="og:description" content="You could think of it as a brainteaser: Create a sequence of eight or more characters that includes at least one uppercase letter, one lowercase letter, a digit, and a symbol, that doesn’t contain any">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://example.com/images/Telepathwords.jpg">
+<meta property="og:image" content="http://example.com/images/Telepathwords-user-interface.jpg">
+<meta property="article:published_time" content="2026-01-12T12:32:46.233Z">
+<meta property="article:modified_time" content="2026-01-12T04:34:33.000Z">
+<meta property="article:author" content="Orekiyuta">
+<meta property="article:tag" content="it">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/images/Telepathwords.jpg"><meta name="generator" content="Hexo 8.1.1"></head>
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+  <h1 id="title">
+    <a href="/">Cink</a>
+  </h1>
+  <nav>
+    
+    
+      
+      <a class="nav-link" href="/">Home</a>
+    
+      
+        <span class="nav-spacer">×</span>
+      
+      <a class="nav-link" href="/archives">Archives</a>
+    
+      
+        <span class="nav-spacer">×</span>
+      
+      <a class="nav-link" href="/about">About</a>
+    
+    
+  </nav>
+</header>
+
+    <div id="content">
+      <article id="post-it_text/Avoiding Vulnerable Passwords—and Rules, Too" class="article article-type-post" itemprop="blogPost" itemscope>
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h2 class="article-title" itemprop="headline name">
+      Avoiding Vulnerable Passwords—and Rules, Too
+    </h2>
+  
+
+
+        <div class="article-meta">
+          <time class="article-date" datetime="2026-01-12T12:32:46.233Z"
+      itemprop="datePublished">January 12, 2026, 8:32 PM</time>
+
+          
+        </div>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+        <blockquote>
+<p>[!NOTE]<br>“You can move all your eggs to one basket,” he says, “but in the end, there’s usually a password protecting that basket.”</p>
+</blockquote>
+<blockquote>
+<p>[!TIP] Source link: <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/blog/avoiding-vulnerable-passwords-rules/">Avoiding Vulnerable Passwords—and Rules, Too</a></p>
+</blockquote>
+<span id="more"></span>
+
+<br>
+
+<hr>
+<br>
+<br>
+
+<p>You could think of it as a brainteaser: Create a sequence of eight or more characters that includes at least one uppercase letter, one lowercase letter, a digit, and a symbol, that doesn’t contain any words in English, and that is memorable enough that you can recall it.</p>
+<p>For most of us, unfortunately, the challenge posed by these rules isn’t fun—it’s a painful chore forced upon us when choosing a password to access an email account, a company network, or a website.</p>
+<p>Passwords that contain symbols and uppercase letters to meet these rules also tend to be difficult to type, especially on mobile devices.</p>
+<p>Even worse, adhering to the rules doesn’t guarantee that your account or your password-protected data will remain secure. A surprising number of passwords that follow these rules are easily guessed by malicious hackers: <code>“P@$$w0rd1,”</code> for example, or <code>“Qwerty123!”</code>. If you specify one of these passwords, most login systems won’t raise any objections.</p>
+<p>For ordinary users, as well as entire organizations, this state of affairs has potentially serious implications. For <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/people/stus/">Stuart Schechter</a> of Microsoft Research and several of his colleagues, it presented a compelling challenge: finding a way to help users avoid “weak” passwords—those that might be too easy for attackers to guess—that were allowed under the old rules, while simultaneously enabling users to choose passwords that are easy to type.</p>
+<p>Schechter, who studies the intersection of human behavior and computer security, is no stranger to debunking conventional wisdom about identity authentication. Several years ago, he and two collaborators wrote a paper revealing the risks of using “secret questions” as a secondary authentication measure when users need to reset a password.</p>
+<p>This time, with access to a huge store of publicly available data on password use and password-setting habits, Schechter and his colleagues— <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/people/cormac/">Cormac Herley</a>, <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/people/paulhsu/">Bo-June (Paul) Hsu</a>, <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/people/riloynd/">Ricky Loynd</a>, and former Microsoft Research intern and Carnegie Mellon University Ph.D. candidate <a target="_blank" rel="noopener" href="http://www.salsite.com/cv/">Saranga Komanduri</a> —have created a tool that detects password vulnerability while forsaking password-strength rules that have been in force for more than 30 years.</p>
+<p><img src="/../../images/Telepathwords.jpg" alt="Telepathwords"> The free online research tool, launched December 5, is called <a target="_blank" rel="noopener" href="https://telepathwords.research.microsoft.com/">Telepathwords</a>. Users can visit the project website and test the strength of their passwords—current ones, past ones, or ones they’re considering using.</p>
+<p>“The system doesn’t ask the user to learn anything up-front or follow any specific rules,” Schechter says. “Rather, as you type each key of your intended password, it displays the characters it thinks you’re most likely to type next. If it succeeds in predicting one or more characters of the rest of your password, the evidence that these characters are predictable will be right in front of your eyes.”</p>
+<p><img src="/../../images/Telepathwords-user-interface.jpg" alt="Telepathwords user interface"></p>
+<p>The user interface for Telepathwords makes it easy to assess the security of the password you’re considering.</p>
+<p>Using Telepathwords feels similar to the autocomplete feature in search engines, except that it discourages you from following its predictions. Predictable characters don’t do much to increase the security of your password against those who might try to guess it, so if you type one of the three characters predicted by Telepathwords, a red X will appear above it. If you choose a character that is not among those predicted by Telepathwords, a green checkmark will appear above it.</p>
+<p>While not truly telepathic, Telepathwords is endowed with great deal of knowledge about how users choose passwords. It knows all the usual substitutions, such as substituting the dollar sign ($) for an S. Telepathwords also looks for passwords constructed by moving a finger around the keyboard, regardless of direction. It has an extensive list of known-popular passwords, as well as a dictionary of English words and a list of common phrases obtained from Microsoft’s <a target="_blank" rel="noopener" href="http://www.bing.com/">Bing</a> search engine. And it’s wise to all sorts of tricks that users have devised—and attackers have long recognized—such as putting an asterisk between the letters of a familiar word.</p>
+<p>Telepathwords also responds—with a diplomatically worded pop-up message—to passwords that rely on common substitutions or contain profanity, both of which attackers also are keenly aware.</p>
+<p>The team tested Telepathwords with several hundred Microsoft employees who shared some of their favorite password-creation tactics to see if Telepathwords would detect them.</p>
+<p>“We saw firsthand the tricks people use to construct passwords and then figured out which ones we should assume attackers also know,” Schechter says. “We then refined the system to detect these ill-advised password-creation behaviors.”</p>
+<h2 id="Managing-Passwords’-Flaws"><a href="#Managing-Passwords’-Flaws" class="headerlink" title="Managing Passwords’ Flaws"></a>Managing Passwords’ Flaws</h2><p>Even if Telepathwords succeeds in helping users choose passwords they can remember and are hard for others to guess, some users will still forget their passwords, and passwords too complex to guess can be stolen in other ways. Schechter, who joined Microsoft Research in 2007 after getting his Ph.D. from Harvard University and spending three years at the Lincoln Laboratory at the Massachusetts Institute of Technology, started working on the problem of what to do when passwords are lost or compromised shortly after joining Microsoft.</p>
+<p>It used to be that if websites didn’t have an email address at which a user could obtain a password-reset code, the gold standard for verifying a user’s identity was to ask a so-called “secret” question—such as “who’s your favorite historical figure?” or “what’s your favorite sports team?”—that the users answer when they first establish an account.</p>
+<p>Schechter, <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/people/ajbrush/">A.J. Brush</a>, and Microsoft Research intern <a target="_blank" rel="noopener" href="http://www.guanotronic.com/~serge/">Serge Egelman</a>, now a researcher at the University of California, Berkeley and the International Computer Science Institute, <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/publication/its-no-secret-measuring-the-security-and-reliability-of-authentication-via-secret-questions/">studied about two dozen of these questions</a>. They found that the answers to most were remarkably easy to predict.</p>
+<p>It turns out that a lot of Americans admire the presidents they learned about in elementary school and root for their local sports teams. The few questions that didn’t have predictable answers were forgotten too often.</p>
+<p>The timing of that research project was impeccable. The week in 2008 that the researchers submitted their paper about secret questions, news outlets around the world reported that vice presidential candidate Sarah Palin’s email account had been hacked. The weakness that enabled access to her account? The secret question about where Palin had met her husband, which was widely known to have been in high school in Wasilla, Alaska.</p>
+<p>Schechter and his colleagues take the same intuitively simple approach to those common answers that they do with common passwords: Choose a different question if your answer is popular enough that an attacker is likely to guess it.</p>
+<p>Their paper on secret questions led major providers of webmail and other high-value Internet services to start shifting away from the use of secret questions. Many augmented email-based verification with text messages sent to mobile phone numbers. Facebook adopted another approach pioneered by Schechter and colleagues: relying on users’ <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/publication/its-not-what-you-know-but-who-you-know-a-social-approach-to-last-resort-authentication/">trusted friends</a> and family members to verify their identity.</p>
+<h2 id="The-End-of-Passwords"><a href="#The-End-of-Passwords" class="headerlink" title="The End of Passwords?"></a>The End of Passwords?</h2><p>As for the question of whether password authentication soon will become obsolete, Schechter notes that such predictions have been around as long as passwords have been used online. He points to <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/research/publication/the-quest-to-replace-passwords-a-framework-for-comparative-evaluation-of-web-authentication-schemes/">work by Herley and others</a> that documents the reasons why other technologies have failed to replace passwords and why they are unlikely to do so in the future. For example, credentials that you carry with you are easy to forget and, like passwords, can be stolen.</p>
+<p>Schechter explains that as people start to log on to websites using email or social-media accounts, or to use a master password to keep their other passwords safe, they are increasing the importance of the passwords, which suddenly control even more resources.</p>
+<p>“You can move all your eggs to one basket,” he says, “but in the end, there’s usually a password protecting that basket.”</p>
+<p>Seeing is believing: Check the <a target="_blank" rel="noopener" href="https://telepathwords.research.microsoft.com/">Telepathwords</a> site, and learn how your passwords fare. You might be surprised.</p>
+
+      
+    </div>
+    
+    
+    <div class="article-category">
+      
+        <b>Categories:</b>
+        <a class="article-category-link" href="/categories/it/">it</a>
+      
+      
+        <br/>
+      
+      
+        <b>Tags:</b>
+        <a class="article-tag-none-link" href="/tags/it/" rel="tag">it</a>
+      
+    </div>
+    
+    
+  </div>
+</article>
+
+  
+<nav id="article-nav" class="article-nav">
+  
+    <span id="article-nav-newer" class="article-nav-link-wrap newer"></span>
+  
+  
+    <a href="/2026/01/12/it_text/This%20is%20not%20the%20future/" id="article-nav-older" class="article-nav-link-wrap older">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">
+        
+          This is not the future
+        
+      </div>
+    </a>
+  
+</nav>
+
+
+
+
+
+
+    </div>
+  </div>
+  
+
+
+
+
+<div id="settings-container">
+<!--  <div id="dark-mode">dark</div>-->
+<!--  <div id="sans-font">sans</div>-->
+</div>
+<!--<script type="text/javascript">-->
+<!--let d=document,r=d.documentElement.style,f=r.setProperty.bind(r),l=localStorage,s=l.getItem('s')||(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches),n=l.getItem('n'),m=d.getElementById("dark-mode"),b=()=>{f('&#45;&#45;bg-color','#fafafa');f('&#45;&#45;code-bg-color','#f4f4f4');f('&#45;&#45;text-color','#212121');f('&#45;&#45;secondary-color','#808080');f('&#45;&#45;tertiary-color','#b0b0b0');f('&#45;&#45;link-color','#b5c8cf');f('&#45;&#45;link-hover-color','#618794');f('&#45;&#45;link-bg-color','#dae4e7');f('&#45;&#45;selection-color','#dae4e7');m.innerHTML="dark"},c=()=>{f('&#45;&#45;bg-color','#212121');f('&#45;&#45;code-bg-color','#292929');f('&#45;&#45;text-color','#fff');f('&#45;&#45;secondary-color','#c0c0c0');f('&#45;&#45;tertiary-color','#6e6e6e');f('&#45;&#45;link-color','#4d6b75');f('&#45;&#45;link-hover-color','#96b1bb');f('&#45;&#45;link-bg-color','#5d828e');f('&#45;&#45;selection-color','#acc1c9');m.innerHTML="light"},o=d.getElementById("sans-font"),e=()=>{f('&#45;&#45;body-stack','"Lora", "Georgia", "Times New Roman", serif');o.innerHTML="sans"},g=()=>{f('&#45;&#45;body-stack','"Lato", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Verdana", sans-serif');o.innerHTML="serif"};m.onclick=()=>{if(s==2){s=1;l.setItem('s',s);c()}else{s=2;l.setItem('s',s);b()}};o.onclick=()=>{if(n==2){n=1;l.setItem('n',n);g()}else{n=2;l.setItem('n',n);e()}};if(!s){s=2;l.setItem('s',2)};if(s==1){c()};if(!n){n=2;l.setItem('n',2)};if(n==1){g()};-->
+<!--</script>-->
+
+
+
+
+</body>
+</html>
