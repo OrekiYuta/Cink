@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37df2b3b330dd83e",
+        "id": "e8e72dc777c26d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "8cdb736a80cbc237",
+            "id": "731911200cbca000",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "你好吗？我很好  情书"
+              "title": "New tab"
             }
           }
         ]
@@ -111,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
+                "file": "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 你好吗？我很好  情书"
+              "title": "Outline of Are we in a GPT-4-style leap that evals can't see"
             }
           },
           {
@@ -178,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
+                "file": "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 你好吗？我很好  情书"
+              "title": "Outgoing links from Are we in a GPT-4-style leap that evals can't see"
             }
           }
         ],
@@ -203,8 +198,9 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "8cdb736a80cbc237",
+  "active": "5291576546d72ab5",
   "lastOpenFiles": [
+    "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
     "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
     "source/_posts/it_linkonly/From Text to Token How Tokenization Pipelines Work.md",
     "source/_posts/it_text/Don’t Talk English to Your LLM.md",
@@ -240,7 +236,6 @@
     "source/_posts/nonit_linkonly/在意别人的目光，就像被无形的枷锁束缚着  嘲笑的淑女.md",
     "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
     "source/_posts/nonit_linkonly/为什么光是活着就这么累  只有爱能让我生存.md",
-    "source/_posts/nonit_text/如果你总是忍不住和别人比较｜大愚和尚.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
