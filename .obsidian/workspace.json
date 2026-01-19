@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e72dc777c26d9e",
+        "id": "78fc47b11b7a9766",
         "type": "tabs",
         "children": [
           {
-            "id": "731911200cbca000",
+            "id": "2f8dbfd97a892c49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/nonit_text/为什么很多中国学生学不好英语？ - RiddleView 的回答.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "为什么很多中国学生学不好英语？ - RiddleView 的回答"
             }
           }
         ]
@@ -106,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
+                "file": "source/_posts/nonit_text/为什么很多中国学生学不好英语？ - RiddleView 的回答.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Are we in a GPT-4-style leap that evals can't see"
+              "title": "Outline of 为什么很多中国学生学不好英语？ - RiddleView 的回答"
             }
           },
           {
@@ -173,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
+                "file": "source/_posts/nonit_text/为什么很多中国学生学不好英语？ - RiddleView 的回答.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Are we in a GPT-4-style leap that evals can't see"
+              "title": "Outgoing links from 为什么很多中国学生学不好英语？ - RiddleView 的回答"
             }
           }
         ],
@@ -198,8 +203,18 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "5291576546d72ab5",
+  "active": "2f8dbfd97a892c49",
   "lastOpenFiles": [
+    "source/images/v2-5bd6871a484c44efc679d88971a4c9c1_720w.jpg",
+    "source/images/v2-4e9709af80463de32c8385209ad61d26_720w.jpg",
+    "source/images/v2-fecea079334f1edb2d8befa922d013c1_720w.jpg",
+    "source/_posts/nonit_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
+    "source/_posts/nonit_text/为什么很多中国学生学不好英语？ - RiddleView 的回答.md",
+    "source/images/v2-6eafc42fa09296ead18ac1e9d6559948_720w.jpg",
+    "source/images/v2-96a81908f4fb4790b8063d5acbb54970_720w.jpg",
+    "source/images/v2-03cf7f79d3aadb5110dd9a1150883959_720w.jpg",
+    "source/images/v2-10f725cae8cbd2f507fc8ea155a19004_720w.jpg",
+    "source/_posts/it_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
     "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
     "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
     "source/_posts/it_linkonly/From Text to Token How Tokenization Pipelines Work.md",
@@ -212,14 +227,8 @@
     "source/_posts/nonit_linkonly/我担心高兴过后只剩难过  周日晚上左右.md",
     "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
     "source/images/Image 3.webp",
-    "source/images/Image 2.webp",
-    "source/images/Image 1.webp",
-    "source/images/Image.webp",
-    "source/images/Image.jpg",
     "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
     "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
-    "source/images/best-buy-webauthn.png",
-    "source/images/webauthn-browser-support.png",
     "source/_posts/nonit_linkonly/不在圣诞季盛开的圣诞玫瑰.md",
     "source/_posts/it_text/安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派, 安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派.md",
     "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
@@ -232,10 +241,6 @@
     "source/_posts/it_text/程序员也可以懂一点期望值管理.md",
     "source/_posts/it_text/Programmers and software developers lost the plot on naming their tools.md",
     "source/_posts/nonit_text/最应该好好相处的人，是我们自己  我们由奇迹构成.md",
-    "source/_posts/it_text/GraphQL the enterprise honeymoon is over.md",
-    "source/_posts/nonit_linkonly/在意别人的目光，就像被无形的枷锁束缚着  嘲笑的淑女.md",
-    "source/_posts/nonit_linkonly/我会趁我还活着的时候与你好好告别  属于你的我的初恋.md",
-    "source/_posts/nonit_linkonly/为什么光是活着就这么累  只有爱能让我生存.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
