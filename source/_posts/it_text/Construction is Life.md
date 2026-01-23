@@ -5,7 +5,7 @@ author:
   - "[[Kevin Kelly]]"
 published:
 created: 2025-12-21T18:31:27+08:00
-updated: 2025-12-21T18:33:50+08:00
+updated: 2026-01-23T18:58:38+08:00
 description: "When I was growing up in the suburbs, I was bothered by all the construction going on in the big city nearby (New York). Whenever I visited, there were detours, cranes, cement trucks blocking the streets, never-ceasing jackhammers, sidewalks closed, … Continue reading →"
 category: "it"
 tags:
@@ -14,7 +14,9 @@ tags:
 
 > [!NOTE]
 > If a city, a town, even a building, is not undergoing upgrade, repairs, and new additions, that means it is dying. That constant din of work is the pulse of life for human environments.
+>
 > Endless work — re-working stuff you just finished — is not just a sign of growth. Growth certainly entails the disruptions of noisy construction.
+>
 > Construction, then, is a sign of metabolism, of health. For me it flipped the valence from construction is a bug, to construction is a feature.
 
 > [!TIP] Source link: [Construction is Life](https://kk.org/thetechnium/construction-is-life/)

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "592231ee039faf68",
+        "id": "00e654d76291505e",
         "type": "tabs",
         "children": [
           {
-            "id": "60995de9ea0882a7",
+            "id": "d8142bd0a7361436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/nonit_linkonly/逃回此处闲静  小森林.md",
+                "file": "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "逃回此处闲静  小森林"
+              "title": "什么是模型上下文协议 (MCP)？ - DemoChen's Clip"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/nonit_linkonly/逃回此处闲静  小森林.md",
+                "file": "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 逃回此处闲静  小森林"
+              "title": "Outline of 什么是模型上下文协议 (MCP)？ - DemoChen's Clip"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/nonit_linkonly/逃回此处闲静  小森林.md",
+                "file": "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 逃回此处闲静  小森林"
+              "title": "Outgoing links from 什么是模型上下文协议 (MCP)？ - DemoChen's Clip"
             }
           }
         ],
@@ -203,8 +203,14 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "60995de9ea0882a7",
+  "active": "d8142bd0a7361436",
   "lastOpenFiles": [
+    "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
+    "source/_posts/it_text/Don’t Talk English to Your LLM.md",
+    "source/_posts/it_text/Construction is Life.md",
+    "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
+    "source/_posts/it_text/安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派, 安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派.md",
+    "source/_posts/it_text/21 Lessons From 14 Years at Google.md",
     "source/_posts/nonit_linkonly/逃回此处闲静  小森林.md",
     "source/_posts/nonit_text/为什么很多中国学生学不好英语？ - RiddleView 的回答.md",
     "source/images/v2-5bd6871a484c44efc679d88971a4c9c1_720w.jpg",
@@ -219,9 +225,7 @@
     "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
     "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
     "source/_posts/it_linkonly/From Text to Token How Tokenization Pipelines Work.md",
-    "source/_posts/it_text/Don’t Talk English to Your LLM.md",
     "source/images/Image 4.webp",
-    "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
     "source/images/Telepathwords-user-interface.jpg",
     "source/images/Telepathwords.jpg",
     "source/_posts/it_text/This is not the future.md",
@@ -230,7 +234,6 @@
     "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
     "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
     "source/_posts/nonit_linkonly/不在圣诞季盛开的圣诞玫瑰.md",
-    "source/_posts/it_text/安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派, 安全键盘：一场横跨 30 年的大型掩耳盗铃 - 少数派.md",
     "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
     "source/_posts/it_text/The Architecture of Not Bad Decoding the Chinese Source Code of the Void.md",
     "source/_posts/nonit_linkonly/她去哪里了 她会不会孤单  大豆田永久子与三名前夫.md",
@@ -238,9 +241,6 @@
     "source/_posts/it_text/I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff.md",
     "source/_posts/nonit_linkonly/从《我是猫》到猫画展｜世间深情爱猫者无数.md",
     "source/_posts/nonit_text/程序员也可以懂一点期望值管理.md",
-    "source/_posts/it_text/程序员也可以懂一点期望值管理.md",
-    "source/_posts/it_text/Programmers and software developers lost the plot on naming their tools.md",
-    "source/_posts/nonit_text/最应该好好相处的人，是我们自己  我们由奇迹构成.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
