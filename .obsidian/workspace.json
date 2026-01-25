@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d37fbd9589cc4c2",
+        "id": "fb143c10bf09a057",
         "type": "tabs",
         "children": [
           {
-            "id": "9b01425e500f685a",
+            "id": "b72a32ec4738123e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it.md",
+                "file": "source/_posts/it_text/Is the golden age of Indie software over.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it"
+              "title": "Is the golden age of Indie software over"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it.md",
+                "file": "source/_posts/it_text/Is the golden age of Indie software over.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it"
+              "title": "Outline of Is the golden age of Indie software over"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it.md",
+                "file": "source/_posts/it_text/Is the golden age of Indie software over.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it"
+              "title": "Outgoing links from Is the golden age of Indie software over"
             }
           }
         ],
@@ -203,12 +203,16 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "9b01425e500f685a",
+  "active": "b72a32ec4738123e",
   "lastOpenFiles": [
+    "source/_posts/it_text/Is the golden age of Indie software over.md",
+    "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
+    "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
+    "source/_posts/it_linkonly/“蓝牙”名称的由来是什么？.md",
+    "source/_posts/it_linkonly/技术Leader如何创造业务价值？.md",
+    "source/_posts/it_text/GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it.md",
     "source/images/chatgpt-sources-magnesium.png",
     "source/images/snake-eating-tail.png",
-    "source/_posts/it_text/GenAI, The Snake Eating Its Own Tail How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it.md",
-    "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
     "source/_posts/it_text/Don’t Talk English to Your LLM.md",
     "source/_posts/it_text/Construction is Life.md",
     "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
@@ -225,11 +229,9 @@
     "source/images/v2-03cf7f79d3aadb5110dd9a1150883959_720w.jpg",
     "source/images/v2-10f725cae8cbd2f507fc8ea155a19004_720w.jpg",
     "source/_posts/it_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
-    "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
     "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
     "source/_posts/it_linkonly/From Text to Token How Tokenization Pipelines Work.md",
     "source/images/Image 4.webp",
-    "source/images/Telepathwords-user-interface.jpg",
     "source/_posts/it_text/This is not the future.md",
     "source/_posts/nonit_linkonly/我担心高兴过后只剩难过  周日晚上左右.md",
     "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
@@ -239,8 +241,6 @@
     "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
     "source/_posts/it_text/The Architecture of Not Bad Decoding the Chinese Source Code of the Void.md",
     "source/_posts/nonit_linkonly/她去哪里了 她会不会孤单  大豆田永久子与三名前夫.md",
-    "source/_posts/it_text/Has the cost of building software just dropped 90%.md",
-    "source/_posts/it_text/I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
