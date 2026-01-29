@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "90407f25054669e8",
+        "id": "73e0d509f04eaefc",
         "type": "tabs",
         "children": [
           {
-            "id": "07e1de6b4340f301",
+            "id": "bbabbf03d96fc4df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/AI writes code faster. Your job is still to prove it works.md",
+                "file": "source/_posts/it_text/The Next Two Years of Software Engineering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI writes code faster. Your job is still to prove it works"
+              "title": "The Next Two Years of Software Engineering"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/AI writes code faster. Your job is still to prove it works.md",
+                "file": "source/_posts/it_text/The Next Two Years of Software Engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI writes code faster. Your job is still to prove it works"
+              "title": "Outline of The Next Two Years of Software Engineering"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/AI writes code faster. Your job is still to prove it works.md",
+                "file": "source/_posts/it_text/The Next Two Years of Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI writes code faster. Your job is still to prove it works"
+              "title": "Outgoing links from The Next Two Years of Software Engineering"
             }
           }
         ],
@@ -203,8 +203,9 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "07e1de6b4340f301",
+  "active": "bbabbf03d96fc4df",
   "lastOpenFiles": [
+    "source/_posts/it_text/The Next Two Years of Software Engineering.md",
     "source/_posts/it_text/AI writes code faster. Your job is still to prove it works.md",
     "source/_posts/it_text/Agentultra - How I Learned Everything I Know About Programming.md",
     "source/_posts/it_text/Is the golden age of Indie software over.md",
@@ -240,7 +241,6 @@
     "source/_posts/nonit_linkonly/好吃的东西始终会是好吃的｜千寻小姐.md",
     "source/_posts/it_text/What is WebAuthn and Why It Matters for Authentication.md",
     "source/_posts/nonit_linkonly/不在圣诞季盛开的圣诞玫瑰.md",
-    "source/_posts/nonit_linkonly/后悔是人生的燃料｜经典杯子蛋糕.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
