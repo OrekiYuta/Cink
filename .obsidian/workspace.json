@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a60a154e6862d2da",
+        "id": "f3e087cc140d8d40",
         "type": "tabs",
         "children": [
           {
-            "id": "0f926761df4ce72a",
+            "id": "f97d22bdd0e91958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/nonit_text/吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派"
+              "title": "New tab"
             }
           }
         ]
@@ -111,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/nonit_text/吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派"
+              "title": "Outline"
             }
           },
           {
@@ -159,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The new identity of a developer What changes and what doesn’t in the AI era"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,12 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/nonit_text/吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -203,9 +195,14 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "0f926761df4ce72a",
+  "active": "f97d22bdd0e91958",
   "lastOpenFiles": [
     "source/_posts/nonit_text/吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派.md",
+    "source/_posts/nonit_text/程序员也可以懂一点期望值管理.md",
+    "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
+    "source/_posts/nonit_text/人类就是不断后悔的生物  你教会了我什么最重要.md",
+    "source/_posts/nonit_text/今天！活在今天！明日不过空有其名！  《泡影记》森鸥外.md",
+    "source/_posts/nonit_text/叁思Santh.md",
     "source/_posts/it_text/5 Ws (and 1 H) To Be Asked of Every Project  Adobe Workfront.md",
     "source/_posts/it_text/5 Ws and H.md",
     "source/_posts/it_text/The Next Two Years of Software Engineering.md",
@@ -235,12 +232,7 @@
     "source/images/v2-03cf7f79d3aadb5110dd9a1150883959_720w.jpg",
     "source/images/v2-10f725cae8cbd2f507fc8ea155a19004_720w.jpg",
     "source/_posts/it_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
-    "source/_posts/nonit_linkonly/你好吗？我很好  情书.md",
-    "source/_posts/it_linkonly/From Text to Token How Tokenization Pipelines Work.md",
     "source/images/Image 4.webp",
-    "source/_posts/it_text/This is not the future.md",
-    "source/_posts/nonit_linkonly/我担心高兴过后只剩难过  周日晚上左右.md",
-    "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
