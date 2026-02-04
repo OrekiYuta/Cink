@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e087cc140d8d40",
+        "id": "d78f7f1ff58ddd1e",
         "type": "tabs",
         "children": [
           {
-            "id": "f97d22bdd0e91958",
+            "id": "3ecf33d3046256c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/nonit_linkonly/我们犯困时揉眼睛的意义与理由是什么？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "我们犯困时揉眼睛的意义与理由是什么？"
             }
           }
         ]
@@ -106,12 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "source/_posts/nonit_linkonly/我们犯困时揉眼睛的意义与理由是什么？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 我们犯困时揉眼睛的意义与理由是什么？"
             }
           },
           {
@@ -153,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/it_text/The new identity of a developer What changes and what doesn’t in the AI era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The new identity of a developer What changes and what doesn’t in the AI era"
             }
           },
           {
@@ -171,11 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/nonit_linkonly/我们犯困时揉眼睛的意义与理由是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 我们犯困时揉眼睛的意义与理由是什么？"
             }
           }
         ],
@@ -195,8 +203,10 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "f97d22bdd0e91958",
+  "active": "3ecf33d3046256c3",
   "lastOpenFiles": [
+    "source/_posts/nonit_linkonly/我们犯困时揉眼睛的意义与理由是什么？.md",
+    "source/_posts/it_text/Your AI coding agents need a manager.md",
     "source/_posts/nonit_text/吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派, 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版） - 少数派.md",
     "source/_posts/nonit_text/程序员也可以懂一点期望值管理.md",
     "source/_posts/nonit_text/据说很多徒步爬山人，都会经历这样的过程：一个人到一群人再到一个人.md",
@@ -226,12 +236,10 @@
     "source/images/v2-5bd6871a484c44efc679d88971a4c9c1_720w.jpg",
     "source/images/v2-4e9709af80463de32c8385209ad61d26_720w.jpg",
     "source/images/v2-fecea079334f1edb2d8befa922d013c1_720w.jpg",
-    "source/_posts/nonit_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
     "source/images/v2-6eafc42fa09296ead18ac1e9d6559948_720w.jpg",
     "source/images/v2-96a81908f4fb4790b8063d5acbb54970_720w.jpg",
     "source/images/v2-03cf7f79d3aadb5110dd9a1150883959_720w.jpg",
     "source/images/v2-10f725cae8cbd2f507fc8ea155a19004_720w.jpg",
-    "source/_posts/it_text/为什么中国的英语教育这么失败 - RiddleView 的回答.md",
     "source/images/Image 4.webp",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
