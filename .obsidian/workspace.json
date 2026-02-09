@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "082e3f4679478791",
+        "id": "e65b3dae1bb39687",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1a9e193a3081ef",
+            "id": "346ffa938e272638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/10 lessons from 12 years at Google.md",
+                "file": "source/_posts/it_text/Your Job Isn't Disappearing. It's Shrinking Around You in Real Time.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10 lessons from 12 years at Google"
+              "title": "Your Job Isn't Disappearing. It's Shrinking Around You in Real Time"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/10 lessons from 12 years at Google.md",
+                "file": "source/_posts/it_text/Your Job Isn't Disappearing. It's Shrinking Around You in Real Time.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 lessons from 12 years at Google"
+              "title": "Outline of Your Job Isn't Disappearing. It's Shrinking Around You in Real Time"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/10 lessons from 12 years at Google.md",
+                "file": "source/_posts/it_text/Your Job Isn't Disappearing. It's Shrinking Around You in Real Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 lessons from 12 years at Google"
+              "title": "Outgoing links from Your Job Isn't Disappearing. It's Shrinking Around You in Real Time"
             }
           }
         ],
@@ -203,8 +203,9 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "2c1a9e193a3081ef",
+  "active": "346ffa938e272638",
   "lastOpenFiles": [
+    "source/_posts/it_text/Your Job Isn't Disappearing. It's Shrinking Around You in Real Time.md",
     "source/_posts/it_text/10 lessons from 12 years at Google.md",
     "source/_posts/it_text/21 Lessons From 14 Years at Google.md",
     "source/_posts/nonit_text/承受失去之痛，是我爱的证明  我们的餐桌.md",
@@ -232,7 +233,6 @@
     "source/images/snake-eating-tail.png",
     "source/_posts/it_text/Don’t Talk English to Your LLM.md",
     "source/_posts/it_text/Construction is Life.md",
-    "source/_posts/it_text/Avoiding Vulnerable Passwords—and Rules, Too.md",
     "source/images/v2-5bd6871a484c44efc679d88971a4c9c1_720w.jpg",
     "source/images/v2-4e9709af80463de32c8385209ad61d26_720w.jpg",
     "source/images/v2-fecea079334f1edb2d8befa922d013c1_720w.jpg",
