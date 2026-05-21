@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "72ef558b97e43e9c",
+        "id": "252f0faa8b791601",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d72a6087bea278",
+            "id": "5b568d315d99a78e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/it_text/You're Not Getting Worse. Everyone Else Just Got AI.md",
+                "file": "source/_posts/it_linkonly/2016 年，我做过一次 AI 写代码创业.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "You're Not Getting Worse. Everyone Else Just Got AI"
+              "title": "2016 年，我做过一次 AI 写代码创业"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/it_text/You're Not Getting Worse. Everyone Else Just Got AI.md",
+                "file": "source/_posts/it_linkonly/2016 年，我做过一次 AI 写代码创业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of You're Not Getting Worse. Everyone Else Just Got AI"
+              "title": "Outline of 2016 年，我做过一次 AI 写代码创业"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/it_text/You're Not Getting Worse. Everyone Else Just Got AI.md",
+                "file": "source/_posts/it_linkonly/2016 年，我做过一次 AI 写代码创业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from You're Not Getting Worse. Everyone Else Just Got AI"
+              "title": "Outgoing links from 2016 年，我做过一次 AI 写代码创业"
             }
           }
         ],
@@ -203,13 +203,17 @@
       "cmdr:Download attachments for current file": false
     }
   },
-  "active": "e001930228024f89",
+  "active": "5b568d315d99a78e",
   "lastOpenFiles": [
+    "source/_posts/it_linkonly/技术Leader如何创造业务价值？.md",
+    "source/_posts/it_linkonly/2016 年，我做过一次 AI 写代码创业.md",
+    "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
+    "source/_posts/it_text/2016 年，我做过一次 AI 写代码创业.md",
+    "source/_posts/it_text/You're Not Getting Worse. Everyone Else Just Got AI.md",
     "source/images/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b04bfe1-fb6e-4e37-a9a3-d1f12af3bac0_1600x896.jpeg",
     "source/images/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4937cddf-8320-48f8-8592-4fd882782e82_1600x896.jpeg",
     "source/images/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2d405d7-36e6-4846-ba70-3ec2f5dbf30b_1600x896.jpeg",
     "source/images/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a4ee538-b709-4790-82f4-177c644f982a_1600x896.jpeg",
-    "source/_posts/it_text/You're Not Getting Worse. Everyone Else Just Got AI.md",
     "source/_posts/nonit_text/人民日报：双向的分享欲真的好浪漫.md",
     "source/_posts/nonit_text/相处时有这三种感觉，说明你遇到了值得珍惜的人.md",
     "source/_posts/it_text/IndieHackers are in a Bubble. Step out of it.md",
@@ -231,16 +235,12 @@
     "source/_posts/it_text/The Next Two Years of Software Engineering.md",
     "source/_posts/it_text/AI writes code faster. Your job is still to prove it works.md",
     "source/_posts/it_text/Agentultra - How I Learned Everything I Know About Programming.md",
-    "source/_posts/it_text/Is the golden age of Indie software over.md",
-    "source/_posts/it_linkonly/Are we in a GPT-4-style leap that evals can't see.md",
-    "source/_posts/it_linkonly/什么是模型上下文协议 (MCP)？ - DemoChen's Clip.md",
     "source/images/chatgpt-sources-magnesium.png",
     "source/images/snake-eating-tail.png",
     "source/images/v2-5bd6871a484c44efc679d88971a4c9c1_720w.jpg",
     "source/images/v2-4e9709af80463de32c8385209ad61d26_720w.jpg",
     "source/images/v2-fecea079334f1edb2d8befa922d013c1_720w.jpg",
     "source/images/v2-6eafc42fa09296ead18ac1e9d6559948_720w.jpg",
-    "source/images/v2-96a81908f4fb4790b8063d5acbb54970_720w.jpg",
     "source/_posts/nonit_linkonly",
     "source/_posts/nonit_text",
     "source/_posts/it_linkonly",
